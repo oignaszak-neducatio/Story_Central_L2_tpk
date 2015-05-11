@@ -11,7 +11,7 @@ manifest =
                 "page_contents": {
                     "1": {
                         "title": "Welcome 1",
-                        "pages": "4 - 5",
+                        "pages": "4 & 5",
                         "pg_link": [{
                             "bookID": "1",
                             "pageNum": "4"
@@ -45,7 +45,7 @@ manifest =
                     },
                     "2": {
                         "title": "Welcome 2",
-                        "pages": "6 - 7",
+                        "pages": "6 & 7",
                         "pg_link": [{
                             "bookID": "1",
                             "pageNum": "5"
@@ -98,7 +98,7 @@ manifest =
                 "page_contents": {
                     "3": {
                         "title": "Lessons 1 and 2",
-                        "pages": "8 - 9",
+                        "pages": "8 & 9",
                         "pg_link": [{
                             "bookID": "1",
                             "pageNum": "6"
@@ -162,7 +162,7 @@ manifest =
                     },
                     "4": {
                         "title": "Lesson 3",
-                        "pages": "10 - 11",
+                        "pages": "10 & 11",
                         "pg_link": [{
                             "bookID": "1",
                             "pageNum": "8"
@@ -475,7 +475,7 @@ manifest =
                 "page_contents": {
                     "11": {
                         "title": "Lessons 1 and 2",
-                        "pages": "18 - 19",
+                        "pages": "18 & 19",
                         "pg_link": [{
                             "bookID": "1",
                             "pageNum": "14"
@@ -540,7 +540,7 @@ manifest =
                     },
                     "12": {
                         "title": "Lesson 3",
-                        "pages": "20 - 21",
+                        "pages": "20 & 21",
                         "pg_link": [{
                             "bookID": "1",
                             "pageNum": "16"
@@ -851,7 +851,7 @@ manifest =
                 "page_contents": {
                     "19": {
                         "title": "Lessons 1 and 2",
-                        "pages": "28 - 29",
+                        "pages": "28 & 29",
                         "pg_link": [{
                             "bookID": "1",
                             "pageNum": "22"
@@ -915,7 +915,7 @@ manifest =
                     },
                     "20": {
                         "title": "Lesson 3 ",
-                        "pages": "30 - 31",
+                        "pages": "30 & 31",
                         "pg_link": [{
                             "bookID": "1",
                             "pageNum": "24"
@@ -1214,7 +1214,7 @@ manifest =
                 "page_contents": {
                     "27": {
                         "title": "Lessons 1 and 2",
-                        "pages": "38 - 39",
+                        "pages": "38 & 39",
                         "pg_link": [{
                             "bookID": "1",
                             "pageNum": "30"
@@ -1278,7 +1278,7 @@ manifest =
                     },
                     "28": {
                         "title": "Lesson 3",
-                        "pages": "40 - 41",
+                        "pages": "40 & 41",
                         "pg_link": [{
                             "bookID": "1",
                             "pageNum": "32"
@@ -1585,7 +1585,7 @@ manifest =
                 "page_contents": {
                     "35": {
                         "title": "Lessons 1 and 2",
-                        "pages": "48 - 49",
+                        "pages": "48 & 49",
                         "pg_link": [{
                             "bookID": "1",
                             "pageNum": "38"
@@ -1641,7 +1641,7 @@ manifest =
                     },
                     "36": {
                         "title": "Lesson 3 ",
-                        "pages": "50 - 51",
+                        "pages": "50 & 51",
                         "pg_link": [{
                             "bookID": "1",
                             "pageNum": "4"
@@ -1953,7 +1953,7 @@ manifest =
                 "page_contents": {
                     "43": {
                         "title": "Lessons 1 and 2",
-                        "pages": "58 - 59",
+                        "pages": "58 & 59",
                         "pg_link": [{
                             "bookID": "1",
                             "pageNum": "46"
@@ -2009,7 +2009,7 @@ manifest =
                     },
                     "44": {
                         "title": "Lesson 3 ",
-                        "pages": "60 - 61",
+                        "pages": "60 & 61",
                         "pg_link": [{
                             "bookID": "1",
                             "pageNum": "48"
@@ -2292,7 +2292,7 @@ manifest =
                 "page_contents": {
                     "51": {
                         "title": "Lessons 1 and 2",
-                        "pages": "68 - 69",
+                        "pages": "68 & 69",
                         "pg_link": [{
                             "bookID": "1",
                             "pageNum": "54"
@@ -2356,7 +2356,7 @@ manifest =
                     },
                     "52": {
                         "title": "Lesson 3",
-                        "pages": "70 - 71",
+                        "pages": "70 & 71",
                         "pg_link": [{
                             "bookID": "1",
                             "pageNum": "56"
@@ -2668,7 +2668,7 @@ manifest =
                 "page_contents": {
                     "59": {
                         "title": "Lessons 1 and 2",
-                        "pages": "78 - 79",
+                        "pages": "78 & 79",
                         "pg_link": [{
                             "bookID": "1",
                             "pageNum": "62"
@@ -2732,7 +2732,7 @@ manifest =
                     },
                     "60": {
                         "title": "Lesson 3 ",
-                        "pages": "80 - 81",
+                        "pages": "80 & 81",
                         "pg_link": [{
                             "bookID": "1",
                             "pageNum": "64"
@@ -3040,7 +3040,7 @@ manifest =
                 "page_contents": {
                     "67": {
                         "title": "Lessons 1 and 2",
-                        "pages": "88 - 89",
+                        "pages": "88 & 89",
                         "pg_link": [{
                             "bookID": "1",
                             "pageNum": "70"
@@ -3097,7 +3097,7 @@ manifest =
                     },
                     "68": {
                         "title": "Lesson 3 ",
-                        "pages": "90 - 91",
+                        "pages": "90 & 91",
                         "pg_link": [{
                             "bookID": "1",
                             "pageNum": "72"
@@ -3385,7 +3385,7 @@ manifest =
                 "page_contents": {
                     "75": {
                         "title": "Grammar Reference ",
-                        "pages": "98 - 99",
+                        "pages": "98 & 99",
                         "pg_link": [{
                             "bookID": "1",
                             "pageNum": "96"
@@ -3468,14 +3468,7 @@ manifest =
                 "page_contents": {
                     "1": {
                         "title": "Welcome ",
-                        "pages": "4 - 5",
-                        "pg_link": [{
-                            "bookID": "6",
-                            "pageNum": "6"
-                        }, {
-                            "bookID": " 7",
-                            "pageNum": " 7"
-                        }],
+                        "pages": "4 & 5",
                         "data": "<img src=\"images/AB_p4.jpg\"><img src=\"images/AB_p5.jpg\">",
                         "epv": [{
                             "id": "SC_L2_AB_ChW_p4_ACT01",
@@ -3516,12 +3509,8 @@ manifest =
                 "page_contents": {
                     "2": {
                         "title": "Lessons 1 and 2",
-                        "pages": "6 - 7",
-                        "pg_link": [{
-                            "bookID": "8",
-                            "pageNum": "8"
-                        }],
-                        "data": "<img src=\"images/AB_p6.jpg\"><img src=\"images/ AB_p7.jpg\">",
+                        "pages": "6 & 7",
+                        "data": "<img src=\"images/AB_p6.jpg\"><img src=\"images/AB_p7.jpg\">",
                         "epv": [{
                             "id": "SC_L2_AB_Ch1_p6_ACT01",
                             "hotspot": [53, 221, 792, 574],
@@ -3540,7 +3529,7 @@ manifest =
                             "hotspot": [931, 58, 1767, 761],
                             "assets": [{
                                 "type": "answers",
-                                "content": ["tall, beard, moustache", "short, curly hair, glasses"]
+                                "content": ["tall, beard, mustache", "short, curly hair, glasses"]
                             }, {
                                 "type": "image",
                                 "file": "images/SC_L2_GR_Ch1.jpg "
@@ -3559,10 +3548,6 @@ manifest =
                     "3": {
                         "title": "Lesson 3 ",
                         "pages": "8",
-                        "pg_link": [{
-                            "bookID": "10",
-                            "pageNum": "10"
-                        }],
                         "data": "<img src=\"images/AB_p8.jpg\">",
                         "epv": [{
                             "id": "SC_L2_AB_Ch1_p8_ACT01",
@@ -3590,10 +3575,6 @@ manifest =
                     "4": {
                         "title": "Lesson 4",
                         "pages": "9",
-                        "pg_link": [{
-                            "bookID": "11",
-                            "pageNum": "11"
-                        }],
                         "data": "<img src=\"images/AB_p9.jpg\">",
                         "epv": [{
                             "id": "SC_L2_AB_Ch1_p9_ACT01",
@@ -3628,10 +3609,6 @@ manifest =
                     "5": {
                         "title": "Lesson 5 ",
                         "pages": "10",
-                        "pg_link": [{
-                            "bookID": "12",
-                            "pageNum": "12"
-                        }],
                         "data": "<img src=\"images/AB_p10.jpg\">",
                         "epv": [{
                             "id": "SC_L2_AB_Ch1_p10_ACT01",
@@ -3662,10 +3639,6 @@ manifest =
                     "6": {
                         "title": "Lesson 6",
                         "pages": "11",
-                        "pg_link": [{
-                            "bookID": "13",
-                            "pageNum": "13"
-                        }],
                         "data": "<img src=\"images/AB_p11.jpg\">",
                         "epv": [{
                             "id": "SC_L2_AB_Ch1_p11_ACT01",
@@ -3694,10 +3667,6 @@ manifest =
                     "7": {
                         "title": "Lesson 7 ",
                         "pages": "12",
-                        "pg_link": [{
-                            "bookID": "14",
-                            "pageNum": "14"
-                        }],
                         "data": "<img src=\"images/AB_p12.jpg\">",
                         "epv": [{
                             "id": "SC_L2_AB_Ch1_p12_ACT01",
@@ -3718,10 +3687,6 @@ manifest =
                     "8": {
                         "title": "Lesson 8",
                         "pages": "13",
-                        "pg_link": [{
-                            "bookID": "15",
-                            "pageNum": "15"
-                        }],
                         "data": "<img src=\"images/AB_p13.jpg\">",
                         "epv": [{
                             "id": "SC_L2_AB_Ch1_p13_ACT01",
@@ -3741,11 +3706,7 @@ manifest =
                 "page_contents": {
                     "9": {
                         "title": "Lessons 1 and 2 ",
-                        "pages": "14 -  15",
-                        "pg_link": [{
-                            "bookID": "18",
-                            "pageNum": "18"
-                        }],
+                        "pages": "14 & 15",
                         "data": "<img src=\"images/AB_p14.jpg\"><img src=\"images/ AB_p15.jpg\">",
                         "epv": [{
                             "id": "SC_L2_AB_Ch2_p14_ACT01",
@@ -3788,10 +3749,6 @@ manifest =
                     "10": {
                         "title": "Lesson 3 ",
                         "pages": "16",
-                        "pg_link": [{
-                            "bookID": "20",
-                            "pageNum": "20"
-                        }],
                         "data": "<img src=\"images/AB_p16.jpg\">",
                         "epv": [{
                             "id": "SC_L2_AB_Ch2_p16_ACT01",
@@ -3814,10 +3771,6 @@ manifest =
                     "11": {
                         "title": "Lesson 4",
                         "pages": "17",
-                        "pg_link": [{
-                            "bookID": "21",
-                            "pageNum": "21"
-                        }],
                         "data": "<img src=\"images/AB_p17.jpg\">",
                         "epv": [{
                             "id": "SC_L2_AB_Ch2_p17_ACT01",
@@ -3833,7 +3786,7 @@ manifest =
                             "hotspot": [58, 492, 858, 838],
                             "assets": [{
                                 "type": "answers",
-                                "content": ["1"]
+                                "content": ["&#10004"]
                             }]
                         }, {
                             "id": "SC_L2_AB_Ch2_p17_ACT03",
@@ -3845,10 +3798,6 @@ manifest =
                     "12": {
                         "title": "Lesson 5 ",
                         "pages": "18",
-                        "pg_link": [{
-                            "bookID": "22",
-                            "pageNum": "22"
-                        }],
                         "data": "<img src=\"images/AB_p18.jpg\">",
                         "epv": [{
                             "id": "SC_L2_AB_Ch2_p18_ACT01",
@@ -3882,10 +3831,6 @@ manifest =
                     "13": {
                         "title": "Lesson 6",
                         "pages": "19",
-                        "pg_link": [{
-                            "bookID": "23",
-                            "pageNum": "23"
-                        }],
                         "data": "<img src=\"images/AB_p19.jpg\">",
                         "epv": [{
                             "id": "SC_L2_AB_Ch2_p19_ACT01",
@@ -3907,10 +3852,6 @@ manifest =
                     "14": {
                         "title": "Lesson 7",
                         "pages": "20",
-                        "pg_link": [{
-                            "bookID": "24",
-                            "pageNum": "24"
-                        }],
                         "data": "<img src=\"images/AB_p20.jpg\">",
                         "epv": [{
                             "id": "SC_L2_AB_Ch2_p20_ACT01",
@@ -3933,10 +3874,6 @@ manifest =
                     "15": {
                         "title": "Lesson 8",
                         "pages": "21",
-                        "pg_link": [{
-                            "bookID": "25",
-                            "pageNum": "25"
-                        }],
                         "data": "<img src=\"images/AB_p21.jpg\">",
                         "epv": [{
                             "id": "SC_L2_AB_Ch2_p21_ACT01",
@@ -3968,11 +3905,7 @@ manifest =
                 "page_contents": {
                     "16": {
                         "title": "Lessons 1 and 2",
-                        "pages": "22 -  23",
-                        "pg_link": [{
-                            "bookID": "28",
-                            "pageNum": "28"
-                        }],
+                        "pages": "22 & 23",
                         "data": "<img src=\"images/AB_p22.jpg\"><img src=\"images/ AB_p23.jpg\">",
                         "epv": [{
                             "id": "SC_L2_AB_Ch3_p22_ACT01",
@@ -4035,10 +3968,6 @@ manifest =
                     "17": {
                         "title": "Lesson 3 ",
                         "pages": "24",
-                        "pg_link": [{
-                            "bookID": "30",
-                            "pageNum": "30"
-                        }],
                         "data": "<img src=\"images/AB_p24.jpg\">",
                         "epv": [{
                             "id": "SC_L2_AB_Ch3_p24_ACT01",
@@ -4070,10 +3999,6 @@ manifest =
                     "18": {
                         "title": "Lesson 4",
                         "pages": "25",
-                        "pg_link": [{
-                            "bookID": "31",
-                            "pageNum": "31"
-                        }],
                         "data": "<img src=\"images/AB_p25.jpg\">",
                         "epv": [{
                             "id": "SC_L2_AB_Ch3_p25_ACT01",
@@ -4089,7 +4014,7 @@ manifest =
                             "hotspot": [21, 719, 845, 961],
                             "assets": [{
                                 "type": "answers",
-                                "content": ["Line after \"servant\""]
+                                "content": ["Line after &quot;servant&quot;"]
                             }]
                         }, {
                             "id": "SC_L2_AB_Ch3_p25_ACT03",
@@ -4101,10 +4026,6 @@ manifest =
                     "19": {
                         "title": "Lesson 5 ",
                         "pages": "26",
-                        "pg_link": [{
-                            "bookID": "32",
-                            "pageNum": "32"
-                        }],
                         "data": "<img src=\"images/AB_p26.jpg\">",
                         "epv": [{
                             "id": "SC_L2_AB_Ch3_p26_ACT01",
@@ -4132,10 +4053,6 @@ manifest =
                     "20": {
                         "title": "Lesson 6",
                         "pages": "27",
-                        "pg_link": [{
-                            "bookID": "33",
-                            "pageNum": "33"
-                        }],
                         "data": "<img src=\"images/AB_p27.jpg\">",
                         "epv": [{
                             "id": "SC_L2_AB_Ch3_p27_ACT01",
@@ -4163,10 +4080,6 @@ manifest =
                     "21": {
                         "title": "Lesson 7 ",
                         "pages": "28",
-                        "pg_link": [{
-                            "bookID": "34",
-                            "pageNum": "34"
-                        }],
                         "data": "<img src=\"images/AB_p28.jpg \">",
                         "epv": [{
                             "id": "SC_L2_AB_Ch3_p28_ACT01",
@@ -4182,10 +4095,6 @@ manifest =
                     "22": {
                         "title": "Lesson 8",
                         "pages": "29",
-                        "pg_link": [{
-                            "bookID": "35",
-                            "pageNum": "35"
-                        }],
                         "data": "<img src=\"images/AB_p29.jpg \">",
                         "epv": [{
                             "id": "SC_L2_AB_Ch3_p29_ACT01",
@@ -4205,11 +4114,7 @@ manifest =
                 "page_contents": {
                     "23": {
                         "title": "Lessons 1 and 2",
-                        "pages": "30 -  31",
-                        "pg_link": [{
-                            "bookID": "38",
-                            "pageNum": "38"
-                        }],
+                        "pages": "30 & 31",
                         "data": "<img src=\"images/AB_p30.jpg\"><img src=\"images/ AB_p31.jpg\">",
                         "epv": [{
                             "id": "SC_L2_AB_Ch4_p30_ACT01",
@@ -4264,10 +4169,6 @@ manifest =
                     "24": {
                         "title": "Lesson 3",
                         "pages": "32",
-                        "pg_link": [{
-                            "bookID": "40",
-                            "pageNum": "40"
-                        }],
                         "data": "<img src=\"images/AB_p32.jpg\">",
                         "epv": [{
                             "id": "SC_L2_AB_Ch4_p32_ACT01",
@@ -4293,10 +4194,6 @@ manifest =
                     "25": {
                         "title": "Lesson 4",
                         "pages": "33",
-                        "pg_link": [{
-                            "bookID": "41",
-                            "pageNum": "41"
-                        }],
                         "data": "<img src=\"images/AB_p32.jpg\"><img src=\"images/AB_p33.jpg\">",
                         "epv": [{
                             "id": "SC_L2_AB_Ch4_p33_ACT01",
@@ -4319,10 +4216,6 @@ manifest =
                     "26": {
                         "title": "Lesson 5",
                         "pages": "34",
-                        "pg_link": [{
-                            "bookID": "42",
-                            "pageNum": "42"
-                        }],
                         "data": "<img src=\"images/AB_p34.jpg\">",
                         "epv": [{
                             "id": "SC_L2_AB_Ch4_p34_ACT01",
@@ -4353,10 +4246,6 @@ manifest =
                     "27": {
                         "title": "Lesson 6",
                         "pages": "35",
-                        "pg_link": [{
-                            "bookID": "43",
-                            "pageNum": "43"
-                        }],
                         "data": "<img src=\"images/AB_p35.jpg\">",
                         "epv": [{
                             "id": "SC_L2_AB_Ch4_p35_ACT01",
@@ -4385,10 +4274,6 @@ manifest =
                     "28": {
                         "title": "Lesson 7 ",
                         "pages": "36",
-                        "pg_link": [{
-                            "bookID": "44",
-                            "pageNum": "44"
-                        }],
                         "data": "<img src=\"images/AB_p36.jpg\">",
                         "epv": [{
                             "id": "SC_L2_AB_Ch4_p36_ACT01",
@@ -4408,10 +4293,6 @@ manifest =
                     "29": {
                         "title": "Lesson 8",
                         "pages": "37",
-                        "pg_link": [{
-                            "bookID": "45",
-                            "pageNum": "45"
-                        }],
                         "data": "<img src=\"images/AB_p37.jpg\">",
                         "epv": [{
                             "id": "SC_L2_AB_Ch4_p37_ACT01",
@@ -4431,12 +4312,8 @@ manifest =
                 "page_contents": {
                     "30": {
                         "title": "Lessons 1 and 2",
-                        "pages": "38 -  39",
-                        "pg_link": [{
-                            "bookID": "48",
-                            "pageNum": "48"
-                        }],
-                        "data": "<img src=\"images/AB_p38.jpg\"><img src=\"images/ AB_p39.jpg\">",
+                        "pages": "38 & 39",
+                        "data": "<img src=\"images/AB_p38.jpg\"><img src=\"images/AB_p39.jpg\">",
                         "epv": [{
                             "id": "SC_L2_AB_Ch5_p38_ACT01",
                             "hotspot": [58, 228, 832, 523],
@@ -4455,7 +4332,7 @@ manifest =
                             "hotspot": [34, 196, 864, 868],
                             "assets": [{
                                 "type": "answers",
-                                "content": ["Horizontal: volleyball, gymnastics, basketball", "Vertical: ping-pong, ", "tennis, judo", "", "volleyball", "gymnastics", "basketball", "ping-pong", "tennis", "judo"]
+                                "content": ["volleyball", "gymnastics", "basketball", "ping-pong", "tennis", "judo", "Horizontal: volleyball, gymnastics, basketball", "Vertical: ping-pong, tennis, judo"]
                             }]
                         }, {
                             "id": "SC_L2_AB_Ch5_p38_ACT04",
@@ -4489,10 +4366,6 @@ manifest =
                     "31": {
                         "title": "Lesson 3 ",
                         "pages": "40",
-                        "pg_link": [{
-                            "bookID": "50",
-                            "pageNum": "50"
-                        }],
                         "data": "<img src=\"images/AB_p40.jpg\">",
                         "epv": [{
                             "id": "SC_L2_AB_Ch5_p40_ACT01",
@@ -4520,10 +4393,6 @@ manifest =
                     "32": {
                         "title": "Lesson 4",
                         "pages": "41",
-                        "pg_link": [{
-                            "bookID": "51",
-                            "pageNum": "51"
-                        }],
                         "data": "<img src=\"images/AB_p41.jpg\">",
                         "epv": [{
                             "id": "SC_L2_AB_Ch5_p41_ACT01",
@@ -4537,7 +4406,7 @@ manifest =
                             "hotspot": [47, 517, 858, 853],
                             "assets": [{
                                 "type": "answers",
-                                "content": ["are playing ", "(ping-pong); are winning"]
+                                "content": ["are playing (ping-pong)","are winning"]
                             }]
                         }, {
                             "id": "SC_L2_AB_Ch5_p41_ACT03",
@@ -4549,10 +4418,6 @@ manifest =
                     "33": {
                         "title": "Lesson 5 ",
                         "pages": "42",
-                        "pg_link": [{
-                            "bookID": "53",
-                            "pageNum": "53"
-                        }],
                         "data": "<img src=\"images/AB_p42.jpg\">",
                         "epv": [{
                             "id": "SC_L2_AB_Ch5_p42_ACT01",
@@ -4583,10 +4448,6 @@ manifest =
                     "34": {
                         "title": "Lesson 6",
                         "pages": "43",
-                        "pg_link": [{
-                            "bookID": "52",
-                            "pageNum": "52"
-                        }],
                         "data": "<img src=\"images/AB_p43.jpg\">",
                         "epv": [{
                             "id": "SC_L2_AB_Ch5_p43_ACT01",
@@ -4609,10 +4470,6 @@ manifest =
                     "35": {
                         "title": "Lesson 7 ",
                         "pages": "44",
-                        "pg_link": [{
-                            "bookID": "53",
-                            "pageNum": "53"
-                        }],
                         "data": "<img src=\"images/AB_p44.jpg\">",
                         "epv": [{
                             "id": "SC_L2_AB_Ch5_p44_ACT01",
@@ -4631,10 +4488,6 @@ manifest =
                     "36": {
                         "title": "Lesson 8",
                         "pages": "45",
-                        "pg_link": [{
-                            "bookID": "54",
-                            "pageNum": "54"
-                        }],
                         "data": "<img src=\"images/AB_p45.jpg\">",
                         "epv": [{
                             "id": "SC_L2_AB_Ch5_p45_ACT01",
@@ -4653,11 +4506,7 @@ manifest =
                 "page_contents": {
                     "37": {
                         "title": "Lessons 1 and 2",
-                        "pages": "46 -  47",
-                        "pg_link": [{
-                            "bookID": "58",
-                            "pageNum": "58"
-                        }],
+                        "pages": "46 & 47",
                         "data": "<img src=\"images/AB_p46.jpg\"><img src=\"images/ AB_p47.jpg\">",
                         "epv": [{
                             "id": "SC_L2_AB_Ch6_p46_ACT01",
@@ -4673,7 +4522,7 @@ manifest =
                             "hotspot": [31, 196, 867, 746],
                             "assets": [{
                                 "type": "answers",
-                                "content": ["e 1 get dressed", "f 2 brush my teeth", "g 3 comb my hair", "b 4 eat breakfast", "d 5 take a shower", "h 6 make my bed", "c 7 wash my face", "a 8 get up"]
+                                "content": ["e get dressed", "f brush my teeth", "g comb my hair", "b eat breakfast", "d take a shower", "h make my bed", "c wash my face", "a get up"]
                             }]
                         }, {
                             "id": "SC_L2_AB_Ch6_p46_ACT03",
@@ -4713,10 +4562,6 @@ manifest =
                     "38": {
                         "title": "Lesson 3 ",
                         "pages": "48",
-                        "pg_link": [{
-                            "bookID": "60",
-                            "pageNum": "60"
-                        }],
                         "data": "<img src=\"images/AB_p48.jpg\">",
                         "epv": [{
                             "id": "SC_L2_AB_Ch6_p48_ACT01",
@@ -4744,10 +4589,6 @@ manifest =
                     "39": {
                         "title": "Lesson 4",
                         "pages": "49",
-                        "pg_link": [{
-                            "bookID": "61",
-                            "pageNum": "61"
-                        }],
                         "data": "<img src=\"images/AB_p49.jpg\">",
                         "epv": [{
                             "id": "SC_L2_AB_Ch6_p49_ACT01",
@@ -4759,7 +4600,7 @@ manifest =
                                 "id": "SC_L2_AB_Ch6_p49_ACT01"
                             }, {
                                 "type": "answers",
-                                "content": ["a drink", "b pack", "c open", "d eat", "e put on", "f make", "", ""]
+                                "content": ["a drink", "b pack", "c open", "d eat", "e put on", "f make"]
                             }]
                         }, {
                             "id": "SC_L2_AB_Ch6_p49_ACT02",
@@ -4785,10 +4626,6 @@ manifest =
                     "40": {
                         "title": "Lesson 5",
                         "pages": "50",
-                        "pg_link": [{
-                            "bookID": "62",
-                            "pageNum": "62"
-                        }],
                         "data": "<img src=\"images/AB_p50.jpg\">",
                         "epv": [{
                             "id": "SC_L2_AB_Ch6_p50_ACT01",
@@ -4817,10 +4654,6 @@ manifest =
                     "41": {
                         "title": "Lesson 6",
                         "pages": "51",
-                        "pg_link": [{
-                            "bookID": "63",
-                            "pageNum": "63"
-                        }],
                         "data": "<img src=\"images/AB_p51.jpg \">",
                         "epv": [{
                             "id": "SC_L2_AB_Ch6_p51_ACT01",
@@ -4843,10 +4676,6 @@ manifest =
                     "42": {
                         "title": "Lesson 7 ",
                         "pages": "52",
-                        "pg_link": [{
-                            "bookID": "64",
-                            "pageNum": "64"
-                        }],
                         "data": "<img src=\"images/AB_p52.jpg\">",
                         "epv": [{
                             "id": "SC_L2_AB_Ch6_p52_ACT01",
@@ -4857,7 +4686,7 @@ manifest =
                             "hotspot": [26, 559, 870, 1088],
                             "assets": [{
                                 "type": "answers",
-                                "content": ["(check) by 2, 4, 6", "(cross) by 1, 3, 5"]
+                                "content": ["&#10004 by 2, 4, 6", "&#10007 by 1, 3, 5"]
                             }]
                         }],
                         "assets": []
@@ -4865,10 +4694,6 @@ manifest =
                     "43": {
                         "title": "Lesson 8",
                         "pages": "53",
-                        "pg_link": [{
-                            "bookID": "65",
-                            "pageNum": "65"
-                        }],
                         "data": "<img src=\"images/AB_p53.jpg\">",
                         "epv": [{
                             "id": "SC_L2_AB_Ch6_p53_ACT01",
@@ -4892,11 +4717,7 @@ manifest =
                 "page_contents": {
                     "44": {
                         "title": "Lessons 1 and 2",
-                        "pages": "54 -  55",
-                        "pg_link": [{
-                            "bookID": "68",
-                            "pageNum": "68"
-                        }],
+                        "pages": "54 & 55",
                         "data": "<img src=\"images/AB_p54.jpg\"><img src=\"images/ AB_p55.jpg\">",
                         "epv": [{
                             "id": "SC_L2_AB_Ch7_p54_ACT01",
@@ -4928,7 +4749,7 @@ manifest =
                             "hotspot": [940, 818, 1739, 1097],
                             "assets": [{
                                 "type": "answers",
-                                "content": ["What does; He's; does he; office.", "does; do; a chef; Where, work; works in"]
+                                "content": ["What does; He's; does he; office", "does; do; a chef; Where, work; works in"]
                             }]
                         }],
                         "assets": []
@@ -4936,10 +4757,6 @@ manifest =
                     "45": {
                         "title": "Lesson 3 ",
                         "pages": "56",
-                        "pg_link": [{
-                            "bookID": "70",
-                            "pageNum": "70"
-                        }],
                         "data": "<img src=\"images/AB_p56.jpg\">",
                         "epv": [{
                             "id": "SC_L2_AB_Ch7_p56_ACT01",
@@ -4962,10 +4779,6 @@ manifest =
                     "46": {
                         "title": "Lesson 4",
                         "pages": "57",
-                        "pg_link": [{
-                            "bookID": "71",
-                            "pageNum": "71"
-                        }],
                         "data": "<img src=\"images/AB_p57.jpg\">",
                         "epv": [{
                             "id": "SC_L2_AB_Ch7_p57_ACT01",
@@ -4993,10 +4806,6 @@ manifest =
                     "47": {
                         "title": "Lesson 5 ",
                         "pages": "58",
-                        "pg_link": [{
-                            "bookID": "72",
-                            "pageNum": "72"
-                        }],
                         "data": "<img src=\"images/AB_p58.jpg\">",
                         "epv": [{
                             "id": "SC_L2_AB_Ch7_p58_ACT01",
@@ -5025,10 +4834,6 @@ manifest =
                     "48": {
                         "title": "Lesson 6",
                         "pages": "59",
-                        "pg_link": [{
-                            "bookID": "73",
-                            "pageNum": "73"
-                        }],
                         "data": "<img src=\"images/AB_p59.jpg\">",
                         "epv": [{
                             "id": "SC_L2_AB_Ch7_p59_ACT01",
@@ -5053,10 +4858,6 @@ manifest =
                     "49": {
                         "title": "Lesson 7 ",
                         "pages": "60",
-                        "pg_link": [{
-                            "bookID": "74",
-                            "pageNum": "74"
-                        }],
                         "data": "<img src=\"images/AB_p60.jpg\">",
                         "epv": [{
                             "id": "SC_L2_AB_Ch7_p60_ACT01",
@@ -5077,10 +4878,6 @@ manifest =
                     "50": {
                         "title": "Lesson 8",
                         "pages": "61",
-                        "pg_link": [{
-                            "bookID": "75",
-                            "pageNum": "75"
-                        }],
                         "data": "<img src=\"images/AB_p61.jpg\">",
                         "epv": [{
                             "id": "SC_L2_AB_Ch7_p61_ACT01",
@@ -5099,11 +4896,7 @@ manifest =
                 "page_contents": {
                     "51": {
                         "title": "Lessons 1 and 2",
-                        "pages": "62 -  63",
-                        "pg_link": [{
-                            "bookID": "78",
-                            "pageNum": "78"
-                        }],
+                        "pages": "62 & 63",
                         "data": "<img src=\"images/AB_p62.jpg\"><img src=\"images/ AB_p63.jpg\">",
                         "epv": [{
                             "id": "SC_L2_AB_Ch8_p62_ACT01",
@@ -5152,17 +4945,13 @@ manifest =
                     "52": {
                         "title": "Lesson 3",
                         "pages": "64",
-                        "pg_link": [{
-                            "bookID": "80",
-                            "pageNum": "80"
-                        }],
                         "data": "<img src=\"images/AB_p64.jpg\">",
                         "epv": [{
                             "id": "SC_L2_AB_Ch8_p64_ACT01",
                             "hotspot": [53, 155, 793, 424],
                             "assets": [{
                                 "type": "answers",
-                                "content": ["You're welcome.", "Let me help you.", "Thank you.", ""]
+                                "content": ["You're welcome.", "Let me help you.", "Thank you."]
                             }]
                         }, {
                             "id": "SC_L2_AB_Ch8_p64_ACT02",
@@ -5183,10 +4972,6 @@ manifest =
                     "53": {
                         "title": "Lesson 4",
                         "pages": "65",
-                        "pg_link": [{
-                            "bookID": "81",
-                            "pageNum": "81"
-                        }],
                         "data": "<img src=\"images/AB_p65.jpg\">",
                         "epv": [{
                             "id": "SC_L2_AB_Ch8_p65_ACT01",
@@ -5217,10 +5002,6 @@ manifest =
                     "54": {
                         "title": "Lesson 5",
                         "pages": "66",
-                        "pg_link": [{
-                            "bookID": "82",
-                            "pageNum": "82"
-                        }],
                         "data": "<img src=\"images/AB_p66.jpg\">",
                         "epv": [{
                             "id": "SC_L2_AB_Ch8_p66_ACT01",
@@ -5248,10 +5029,6 @@ manifest =
                     "55": {
                         "title": "Lesson 6",
                         "pages": "67",
-                        "pg_link": [{
-                            "bookID": "83",
-                            "pageNum": "83"
-                        }],
                         "data": "<img src=\"images/AB_p67.jpg\">",
                         "epv": [{
                             "id": "SC_L2_AB_Ch8_p67_ACT01",
@@ -5282,10 +5059,6 @@ manifest =
                     "56": {
                         "title": "Lesson 7",
                         "pages": "68",
-                        "pg_link": [{
-                            "bookID": "84",
-                            "pageNum": "84"
-                        }],
                         "data": "<img src=\"images/AB_p68.jpg\">",
                         "epv": [{
                             "id": "SC_L2_AB_Ch8_p68_ACT01",
@@ -5306,10 +5079,6 @@ manifest =
                     "57": {
                         "title": "Lesson 8",
                         "pages": "69",
-                        "pg_link": [{
-                            "bookID": "85",
-                            "pageNum": "85"
-                        }],
                         "data": "<img src=\"images/AB_p69.jpg\">",
                         "epv": [{
                             "id": "SC_L2_AB_Ch8_p69_ACT01",
@@ -5325,11 +5094,7 @@ manifest =
                 "page_contents": {
                     "58": {
                         "title": "Lessons 1 and 2 ",
-                        "pages": "70 -  71",
-                        "pg_link": [{
-                            "bookID": "88",
-                            "pageNum": "88"
-                        }],
+                        "pages": "70 & 71",
                         "data": "<img src=\"images/AB_p70.jpg\"><img src=\"images/ AB_p71.jpg\">",
                         "epv": [{
                             "id": "SC_L2_AB_Ch9_p70_ACT01",
@@ -5371,17 +5136,13 @@ manifest =
                     "59": {
                         "title": "Lesson 3",
                         "pages": "72",
-                        "pg_link": [{
-                            "bookID": "90",
-                            "pageNum": "90"
-                        }],
                         "data": "<img src=\"images/AB_p72.jpg\">",
                         "epv": [{
                             "id": "SC_L2_AB_Ch9_p72_ACT01",
                             "hotspot": [40, 161, 873, 454],
                             "assets": [{
                                 "type": "answers",
-                                "content": ["OK, great. See you on Saturday. 3", "Would you like to (go shopping) on Saturday? 1", "Yes, that sounds fun! 2", ""]
+                                "content": ["OK, great. See you on Saturday. 3", "Would you like to (go shopping) on Saturday? 1", "Yes, that sounds fun! 2"]
                             }]
                         }, {
                             "id": "SC_L2_AB_Ch9_p72_ACT02",
@@ -5402,10 +5163,6 @@ manifest =
                     "60": {
                         "title": "Lesson 4",
                         "pages": "73",
-                        "pg_link": [{
-                            "bookID": "91",
-                            "pageNum": "91"
-                        }],
                         "data": "<img src=\"images/AB_p73.jpg\">",
                         "epv": [{
                             "id": "SC_L2_AB_Ch9_p73_ACT01",
@@ -5430,10 +5187,6 @@ manifest =
                     "61": {
                         "title": "Lesson 5 ",
                         "pages": "74",
-                        "pg_link": [{
-                            "bookID": "92",
-                            "pageNum": "92"
-                        }],
                         "data": "<img src=\"images/AB_p74.jpg\">",
                         "epv": [{
                             "id": "SC_L2_AB_Ch9_p74_ACT01",
@@ -5447,7 +5200,7 @@ manifest =
                             "hotspot": [58, 807, 864, 1142],
                             "assets": [{
                                 "type": "answers",
-                                "content": ["count, pouch, mouse", "flowers, how, town"]
+                                "content": ["ou: count, pouch, mouse", "ow: flowers, how, town"]
                             }]
                         }],
                         "assets": []
@@ -5455,10 +5208,6 @@ manifest =
                     "62": {
                         "title": "Lesson 6",
                         "pages": "75",
-                        "pg_link": [{
-                            "bookID": "93",
-                            "pageNum": "93"
-                        }],
                         "data": "<img src=\"images/AB_p75.jpg\">",
                         "epv": [{
                             "id": "SC_L2_AB_Ch9_p75_ACT01",
@@ -5486,10 +5235,6 @@ manifest =
                     "63": {
                         "title": "Lesson 7",
                         "pages": "76",
-                        "pg_link": [{
-                            "bookID": "94",
-                            "pageNum": "94"
-                        }],
                         "data": "<img src=\"images/AB_p76.jpg\">",
                         "epv": [{
                             "id": "SC_L2_AB_Ch9_p76_ACT01",
@@ -5508,10 +5253,6 @@ manifest =
                     "64": {
                         "title": "Lesson 8",
                         "pages": "77",
-                        "pg_link": [{
-                            "bookID": "95",
-                            "pageNum": "95"
-                        }],
                         "data": "<img src=\"images/AB_p77.jpg\">",
                         "epv": [{
                             "id": "SC_L2_AB_Ch9_p77_ACT01",
@@ -5527,11 +5268,7 @@ manifest =
                 "page_contents": {
                     "65": {
                         "title": "Chapter 1 Review",
-                        "pages": "78 - 79",
-                        "pg_link": [{
-                            "bookID": "17",
-                            "pageNum": "17"
-                        }],
+                        "pages": "78 & 79",
                         "data": "<img src=\"images/AB_p78.jpg\"><img src=\"images/AB_p79.jpg\">",
                         "epv": [{
                             "id": "SC_L2_AB_R1_p78_ACT01",
@@ -5563,11 +5300,7 @@ manifest =
                     },
                     "66": {
                         "title": "Chapter 2 Review",
-                        "pages": "80 - 81",
-                        "pg_link": [{
-                            "bookID": "27",
-                            "pageNum": "27"
-                        }],
+                        "pages": "80 & 81",
                         "data": "<img src=\"images/AB_p80.jpg\"><img src=\"images/AB_p81.jpg\">",
                         "epv": [{
                             "id": "SC_L2_AB_R1_p80_ACT01",
@@ -5592,11 +5325,7 @@ manifest =
                     },
                     "67": {
                         "title": "Chapter 3 Review",
-                        "pages": "82 - 83",
-                        "pg_link": [{
-                            "bookID": "37",
-                            "pageNum": "37"
-                        }],
+                        "pages": "82 & 83",
                         "data": "<img src=\"images/AB_p82.jpg\"><img src=\"images/AB_p83.jpg\">",
                         "epv": [{
                             "id": "SC_L2_AB_R1_p82_ACT01",
@@ -5621,11 +5350,7 @@ manifest =
                     },
                     "68": {
                         "title": "Chapter 4 Review",
-                        "pages": "84 - 85",
-                        "pg_link": [{
-                            "bookID": "47",
-                            "pageNum": "47"
-                        }],
+                        "pages": "84 & 85",
                         "data": "<img src=\"images/AB_p84.jpg\"><img src=\"images/AB_p85.jpg\">",
                         "epv": [{
                             "id": "SC_L2_AB_R1_p84_ACT01",
@@ -5650,11 +5375,7 @@ manifest =
                     },
                     "69": {
                         "title": "Chapter 5 Review",
-                        "pages": "86 - 87",
-                        "pg_link": [{
-                            "bookID": "57",
-                            "pageNum": "57"
-                        }],
+                        "pages": "86 & 87",
                         "data": "<img src=\"images/AB_p86.jpg\"><img src=\"images/AB_p87.jpg\">",
                         "epv": [{
                             "id": "SC_L2_AB_R1_p86_ACT01",
@@ -5679,26 +5400,19 @@ manifest =
                     },
                     "70": {
                         "title": "Chapter 6 Review",
-                        "pages": "88 - 89",
-                        "pg_link": [{
-                            "bookID": "67",
-                            "pageNum": "67"
-                        }],
+                        "pages": "88 & 89",
                         "data": "<img src=\"images/AB_p88.jpg\"><img src=\"images/AB_p89.jpg\">",
                         "epv": [{
                             "id": "SC_L2_AB_R1_p88_ACT01",
                             "hotspot": [55, 133, 874, 591],
                             "assets": [{
                                 "type": "answers",
-                                "content": ["get", "don't"]
+                                "content": ["get", "don't", "read", "do", "eleven"]
                             }]
                         }, {
                             "id": "SC_L2_AB_R1_p88_ACT02",
                             "hotspot": [65, 614, 861, 1062],
-                            "assets": [{
-                                "type": "answers",
-                                "content": ["", "read", "do", "eleven"]
-                            }]
+                            "assets": []
                         }, {
                             "id": "SC_L2_AB_R1_p88_ACT03",
                             "hotspot": [931, 55, 1703, 1056],
@@ -5715,11 +5429,7 @@ manifest =
                     },
                     "71": {
                         "title": "Chapter 7 Review",
-                        "pages": "90 - 91",
-                        "pg_link": [{
-                            "bookID": "77",
-                            "pageNum": "77"
-                        }],
+                        "pages": "90 & 91",
                         "data": "<img src=\"images/AB_p90.jpg\"><img src=\"images/AB_p91.jpg\">",
                         "epv": [{
                             "id": "SC_L2_AB_R1_p90_ACT01",
@@ -5744,11 +5454,7 @@ manifest =
                     },
                     "72": {
                         "title": "Chapter 8 Review",
-                        "pages": "92 - 93",
-                        "pg_link": [{
-                            "bookID": "87",
-                            "pageNum": "87"
-                        }],
+                        "pages": "92 & 93",
                         "data": "<img src=\"images/AB_p92.jpgAB_\"><img src=\"images/p93.jpg\">",
                         "epv": [{
                             "id": "SC_L2_AB_R1_p92_ACT01",
@@ -5780,18 +5486,14 @@ manifest =
                     },
                     "73": {
                         "title": "Chapter 9 Review",
-                        "pages": "94 - 95",
-                        "pg_link": [{
-                            "bookID": "97",
-                            "pageNum": "97"
-                        }],
+                        "pages": "94 & 95",
                         "data": "<img src=\"images/AB_p94.jpg\"><img src=\"images/AB_p.95.jpg\">",
                         "epv": [{
                             "id": "SC_L2_AB_R1_p94_ACT01",
                             "hotspot": [47, 129, 857, 1036],
                             "assets": [{
                                 "type": "answers",
-                                "content": ["birds", "lowers", "sky", "stars", "go shopping"]
+                                "content": ["birds", "flowers", "sky", "stars", "go shopping"]
                             }]
                         }, {
                             "id": "SC_L2_AB_R1_p95_ACT02",
@@ -5814,14 +5516,7 @@ manifest =
                 "page_contents": {
                     "74": {
                         "title": "Grammar Reference",
-                        "pages": "96 - 97",
-                        "pg_link": [{
-                            "bookID": "98",
-                            "pageNum": "98"
-                        }, {
-                            "bookID": "99",
-                            "pageNum": "99"
-                        }],
+                        "pages": "96 & 97",
                         "data": "<img src=\"images/AB_p96.jpg\"><img src=\"images/AB_p97.jpg\">",
                         "epv": [{
                             "id": "SC_L2_AB_GR_p96_ACT01",
@@ -5844,8 +5539,7 @@ manifest =
                     },
                     "75": {
                         "title": "Grammar Reference",
-                        "pages": "98 - 99",
-                        "pg_link": "",
+                        "pages": "98 & 99",
                         "data": "<img src=\"images/AB_p98.jpg\"><img src=\"images/AB_p99.jpg\">",
                         "epv": [{
                             "id": "SC_L2_AB_GR_p98_ACT01",
@@ -5869,7 +5563,6 @@ manifest =
                     "76": {
                         "title": "Grammar Reference",
                         "pages": "100 & 101",
-                        "pg_link": "",
                         "data": "<img src=\"images/AB_p100.jpg\"><img src=\"images/AB_p101.jpg\">",
                         "epv": [{
                             "id": "SC_L2_AB_GR_p100_ACT01",
@@ -5893,7 +5586,6 @@ manifest =
                     "77": {
                         "title": "Grammar Reference",
                         "pages": "102 & 103",
-                        "pg_link": "",
                         "data": "<img src=\"images/AB_p102.jpg\"><img src=\"images/AB_p103.jpg\">",
                         "epv": [{
                             "id": "SC_L2_AB_GR_p102_ACT01",
@@ -5917,7 +5609,6 @@ manifest =
                     "78": {
                         "title": "Grammar Reference",
                         "pages": "104",
-                        "pg_link": "",
                         "data": "<img src=\"images/AB_p104.jpg\">",
                         "epv": [{
                             "id": "SC_L2_AB_GR_p104_ACT01",
@@ -5945,11 +5636,7 @@ manifest =
                 "page_contents": {
                     "1": {
                         "title": "&nbsp;",
-                        "pages": "2 - 3",
-                        "pg_link": [{
-                            "bookID": "12",
-                            "pageNum": "12"
-                        }],
+                        "pages": "2 & 3",
                         "data": "<img src=\"images/R_p2.jpg\"><img src=\"images/R_p3.jpg\">",
                         "epv": [{
                             "id": "SC_L2_RB_p2_ACT01",
@@ -6011,8 +5698,7 @@ manifest =
                     },
                     "2": {
                         "title": "&nbsp;",
-                        "pages": "4 - 5",
-                        "pg_link": "",
+                        "pages": "4 & 5",
                         "data": "<img src=\"images/R_p4.jpg\"><img src=\"images/R_p5.jpg\">",
                         "epv": [{
                             "id": "SC_L2_RB_p4_ACT01",
@@ -6072,11 +5758,7 @@ manifest =
                 "page_contents": {
                     "3": {
                         "title": "&nbsp;",
-                        "pages": "6 - 7",
-                        "pg_link": [{
-                            "bookID": "22",
-                            "pageNum": "22"
-                        }],
+                        "pages": "6 & 7",
                         "data": "<img src=\"images/R_p6.jpg\"><img src=\"images/R_p7.jpg\">",
                         "epv": [{
                             "id": "SC_L2_RB_p6_ACT01",
@@ -6135,8 +5817,7 @@ manifest =
                     },
                     "4": {
                         "title": "&nbsp;",
-                        "pages": "8 - 9",
-                        "pg_link": "",
+                        "pages": "8 & 9",
                         "data": "<img src=\"images/R_p8.jpg\"><img src=\"images/R_p9.jpg\">",
                         "epv": [{
                             "id": "SC_L2_RB_p8_ACT01",
@@ -6200,11 +5881,7 @@ manifest =
                 "page_contents": {
                     "5": {
                         "title": "&nbsp;",
-                        "pages": "10 - 11",
-                        "pg_link": [{
-                            "bookID": "32",
-                            "pageNum": "32"
-                        }],
+                        "pages": "10 & 11",
                         "data": "<img src=\"images/R_p10.jpg\"><img src=\"images/R_p11.jpg\">",
                         "epv": [{
                             "id": "SC_L2_RB_p10_ACT01",
@@ -6248,7 +5925,6 @@ manifest =
                     "6": {
                         "title": "&nbsp;",
                         "pages": "12",
-                        "pg_link": "",
                         "data": "<img src=\"images/R_p12.jpg\">",
                         "epv": [{
                             "id": "SC_L2_RB_p12_ACT01",
@@ -6293,10 +5969,6 @@ manifest =
                     "7": {
                         "title": "&nbsp;",
                         "pages": "13",
-                        "pg_link": [{
-                            "bookID": "42",
-                            "pageNum": "42"
-                        }],
                         "data": "<img src=\"images/R_p13\">",
                         "epv": [{
                             "id": "SC_L2_RB_p13_ACT01",
@@ -6331,8 +6003,7 @@ manifest =
                     },
                     "8": {
                         "title": "&nbsp;",
-                        "pages": "14 - 15",
-                        "pg_link": "",
+                        "pages": "14 & 15",
                         "data": "<img src=\"images/R_p14.jpg\"><img src=\"images/R_p15.jpg\">",
                         "epv": [{
                             "id": "SC_L2_RB_p14_ACT01",
@@ -6392,11 +6063,7 @@ manifest =
                 "page_contents": {
                     "9": {
                         "title": "&nbsp;",
-                        "pages": "16 - 17",
-                        "pg_link": [{
-                            "bookID": "52",
-                            "pageNum": "52"
-                        }],
+                        "pages": "16 & 17",
                         "data": "<img src=\"images/R_p16.jpg\"><img src=\"images/R_p17.jpg\">",
                         "epv": [{
                             "id": "SC_L2_RB_p16_ACT01",
@@ -6455,8 +6122,7 @@ manifest =
                     },
                     "10": {
                         "title": "&nbsp;",
-                        "pages": "18 - 19",
-                        "pg_link": "",
+                        "pages": "18 & 19",
                         "data": "<img src=\"images/R_p18.jpg\"><img src=\"images/R_p19.jpg\">",
                         "epv": [{
                             "id": "SC_L2_RB_p18_ACT01",
@@ -6508,11 +6174,7 @@ manifest =
                 "page_contents": {
                     "11": {
                         "title": "&nbsp;",
-                        "pages": "20 -  21",
-                        "pg_link": [{
-                            "bookID": "62",
-                            "pageNum": "62"
-                        }],
+                        "pages": "20 & 21",
                         "data": "<img src=\"images/R_p20.jpg\"><img src=\"images/R_p21.jpg\">",
                         "epv": [{
                             "id": "SC_L2_RB_p20_ACT01",
@@ -6580,11 +6242,7 @@ manifest =
                 "page_contents": {
                     "12": {
                         "title": "&nbsp;",
-                        "pages": "22 -  23",
-                        "pg_link": [{
-                            "bookID": "72",
-                            "pageNum": "72"
-                        }],
+                        "pages": "22 & 23",
                         "data": "<img src=\"images/R_p22.jpg\"><img src=\"images/R_p23.jpg\">",
                         "epv": [{
                             "id": "SC_L2_RB_p22_ACT01",
@@ -6636,7 +6294,6 @@ manifest =
                     "13": {
                         "title": "&nbsp;",
                         "pages": "24",
-                        "pg_link": "",
                         "data": "<img src=\"images/R_p24.jpg\">",
                         "epv": [{
                             "id": "SC_L2_RB_p24_ACT01",
@@ -6681,10 +6338,6 @@ manifest =
                     "14": {
                         "title": "&nbsp;",
                         "pages": "25",
-                        "pg_link": [{
-                            "bookID": "82",
-                            "pageNum": "82"
-                        }],
                         "data": "<img src=\"images/R_p25.jpg\">",
                         "epv": [{
                             "id": "SC_L2_RB_p25_ACT01",
@@ -6711,8 +6364,7 @@ manifest =
                     },
                     "15": {
                         "title": "&nbsp;",
-                        "pages": "26 - 27",
-                        "pg_link": "",
+                        "pages": "26 & 27",
                         "data": "<img src=\"images/R_p26.jpg\"><img src=\"images/R_p.27.jpg\">",
                         "epv": [{
                             "id": "SC_L2_RB_p26_ACT01",
@@ -6752,7 +6404,6 @@ manifest =
                     "16": {
                         "title": "&nbsp;",
                         "pages": "28",
-                        "pg_link": "",
                         "data": "<img src=\"images/R_p28.jpg\">",
                         "epv": [{
                             "id": "SC_L2_RB_p28_ACT01",
@@ -6789,10 +6440,6 @@ manifest =
                     "17": {
                         "title": "&nbsp;",
                         "pages": "29",
-                        "pg_link": [{
-                            "bookID": "92",
-                            "pageNum": "92"
-                        }],
                         "data": "<img src=\"images/R_p.29.jpg\">",
                         "epv": [{
                             "id": "SC_L2_RB_p29_ACT01",
@@ -6819,8 +6466,7 @@ manifest =
                     },
                     "18": {
                         "title": "&nbsp;",
-                        "pages": "30 - 31",
-                        "pg_link": "",
+                        "pages": "30 & 31",
                         "data": "<img src=\"images/R_p30.jpg\"><img src=\"images/R_p31.jpg\">",
                         "epv": [{
                             "id": "SC_L2_RB_p30_ACT01",
