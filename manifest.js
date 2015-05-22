@@ -52,22 +52,14 @@ manifest =
                         }],
                         "data": "<img src=\"images/SB_p6.jpg\"><img src=\"images/SB_p7.jpg\">",
                         "epv": [{
-                            "id": "SC_L2_SB_CW_p6_ACT01",
-                            "hotspot": [11, 411, 934, 1142],
-                            "assets": []
-                        }, {
                             "id": "SC_L2_SB_CW_p7_ACT02",
-                            "hotspot": [126, 222, 688, 411],
+                            "hotspot": [4, 201, 940, 947],
                             "assets": [{
                                 "type": "interactive",
                                 "title": "Dialog Builder",
                                 "url": "./dialogbuilder/dialogbuilder.html",
                                 "id": "SC_L2_SB_CW_p7_ACT02"
                             }]
-                        }, {
-                            "id": "SC_L2_SB_CW_p7_ACT03",
-                            "hotspot": [93, 244, 921, 847],
-                            "assets": []
                         }, {
                             "id": "SC_L2_SB_CW_p7_ACT04",
                             "hotspot": [946, 94, 1736, 430],
@@ -228,7 +220,7 @@ manifest =
                                 "id": "SC_L2_SB_Ch1_p11_ACT10"
                             }, {
                                 "type": "tips",
-                                "content": "Go to the Reader component to see the full Reader story."
+                                "content": "Go to the Reader component to see the full Reader story and Oral Storytelling Video."
                             }]
                         }],
                         "assets": [{
@@ -257,7 +249,7 @@ manifest =
                                 "srt": "audio/srt/SC_L2_Ch1_CD1_08_SB.srt"
                             }, {
                                 "type": "tips",
-                                "content": "Go to the Reader component to see the full Reader story.<br/>"
+                                "content": "Go to the Reader component to see the full Reader story and Oral Storytelling Video."
                             }]
                         }, {
                             "id": "SC_L2_SB_Ch1_p12_ACT02",
@@ -271,7 +263,7 @@ manifest =
                             "hotspot": [45, 415, 868, 895],
                             "assets": [{
                                 "type": "tips",
-                                "content": "Use <i>Pen<i/> to have one or more volunteers draw their answers. Use the finest <i>Pen<i/> for best results."
+                                "content": "Use <i>Pen</i> to have one or more volunteers draw their answers. Use the finest <i>Pen</i> for best results."
                             }]
                         }, {
                             "id": "SC_L2_SB_Ch1_p12_ACT04",
@@ -290,7 +282,7 @@ manifest =
                         "data": "<img src=\"images/SB_p13.jpg\">",
                         "epv": [{
                             "id": "SC_L2_SB_Ch1_p13_ACT01",
-                            "hotspot": [34, 124, 860, 809],
+                            "hotspot": [15, 111, 876, 807],
                             "assets": [{
                                 "type": "interactive",
                                 "title": "Dialog Builder",
@@ -338,15 +330,15 @@ manifest =
                             }]
                         }, {
                             "id": "SC_L2_SB_Ch1_p14_ACT02",
-                            "hotspot": [61, 196, 871, 385],
+                            "hotspot": [59, 194, 870, 395],
                             "assets": []
                         }, {
                             "id": "SC_L2_SB_Ch1_p14_ACT03",
-                            "hotspot": [63, 405, 873, 591],
+                            "hotspot": [50, 392, 871, 601],
                             "assets": []
                         }, {
                             "id": "SC_L2_SB_Ch1_p14_ACT04",
-                            "hotspot": [62, 614, 866, 845],
+                            "hotspot": [61, 603, 858, 848],
                             "assets": []
                         }, {
                             "id": "SC_L2_SB_Ch1_p14_ACT05",
@@ -388,11 +380,11 @@ manifest =
                             "assets": [{
                                 "type": "audio",
                                 "file": "audio/SC_L2_Ch1_CD1_12_SB.mp3",
-                                "srt": "audio/srt/SC_L2_Ch1_CD1_12a_SB.srt"
+                                "srt": "audio/srt/SC_L2_Ch1_CD1_12_SB.srt"
                             }]
                         }, {
                             "id": "SC_L2_SB_Ch1_p15_ACT02",
-                            "hotspot": [42, 620, 825, 937],
+                            "hotspot": [44, 611, 842, 937],
                             "assets": [{
                                 "type": "interactive",
                                 "title": "Dialog Builder",
@@ -401,11 +393,11 @@ manifest =
                             }, {
                                 "type": "audio",
                                 "file": "audio/SC_L2_Ch1_CD1_12_SB.mp3",
-                                "srt": "audio/srt/SC_L2_Ch1_CD1_12b_SB.srt"
+                                "srt": "audio/srt/SC_L2_Ch1_CD1_12_SB.srt"
                             }]
                         }, {
                             "id": "SC_L2_SB_Ch1_p15_ACT03",
-                            "hotspot": [36, 951, 839, 1060],
+                            "hotspot": [35, 941, 842, 1059],
                             "assets": []
                         }],
                         "assets": []
@@ -444,26 +436,23 @@ manifest =
                             }]
                         }, {
                             "id": "SC_L2_SB_Ch1_p17_ACT02",
-                            "hotspot": [11, 354, 871, 754],
+                            "hotspot": [9, 353, 889, 722],
                             "assets": [{
                                 "type": "interactive",
                                 "title": "Dialog Builder",
                                 "url": "./dialogbuilder/dialogbuilder.html",
                                 "id": "SC_L2_SB_Ch1_p17_ACT02"
-                            }, {
-                                "type": "tips",
-                                "content": "Remind the children to do the Activity Book Review section by selecting the AB Review option in the Dropdown menu."
                             }]
                         }, {
                             "id": "SC_L2_SB_Ch1_p17_ACT03",
-                            "hotspot": [30, 758, 680, 1111],
+                            "hotspot": [29, 734, 681, 1110],
                             "assets": []
                         }, {
                             "id": "SC_L2_SB_Ch1_p17_ACT04",
                             "hotspot": [411, 781, 886, 1142],
                             "assets": [{
                                 "type": "image",
-                                "file": "images/ppSC_L2_Welcome_p04_p05.jpg"
+                                "file": "images/SC_L2_Welcome_p04_p05.jpg"
                             }]
                         }],
                         "assets": []
@@ -505,9 +494,6 @@ manifest =
                                 "type": "audio",
                                 "file": "audio/SC_L2_Ch2_CD1_15_SB.mp3",
                                 "srt": "audio/srt/SC_L2_Ch2_CD1_15_SB.srt"
-                            }, {
-                                "type": "image",
-                                "file": "images/AW_p_19_ACT01"
                             }]
                         }, {
                             "id": "SC_L2_SB_Ch2_p19_ACT03",
@@ -519,10 +505,7 @@ manifest =
                                 "id": "SC_L2_SB_Ch2_p19_ACT03"
                             }, {
                                 "type": "tips",
-                                "content": "Use <i>Spotlight<i/> to show part of the picture. Ask the children to say what they can see."
-                            }, {
-                                "type": "image",
-                                "file": "images/AW_p_19_ACT01"
+                                "content": "Use <i>Spotlight</i> to show part of the picture. Ask the children to say what they can see."
                             }]
                         }, {
                             "id": "SC_L2_SB_Ch2_p19_ACT04",
@@ -668,8 +651,11 @@ manifest =
                                 "srt": "audio/srt/SC_L2_Ch2_CD1_19_SB.srt"
                             }, {
                                 "type": "video",
-                                "file": "video/SC_ASL_L2_Ch2B_SD.mp4",
-                                "srt": "video/srt/"
+                                "file": "video/SC_MUS_K_L2_Ch2_SD.mp4",
+                                "srt": ""
+                            }, {
+                                "type": "video",
+                                "file": "video/SC_MUS_L2_Ch2_SD.mp4"
                             }]
                         }, {
                             "id": "SC_L2_SB_Ch2_p23_ACT02",
@@ -704,26 +690,26 @@ manifest =
                             }]
                         }, {
                             "id": "SC_L2_SB_Ch2_p24_ACT02",
-                            "hotspot": [62, 193, 831, 396],
+                            "hotspot": [60, 179, 830, 407],
                             "assets": []
                         }, {
                             "id": "SC_L2_SB_Ch2_p24_ACT03",
-                            "hotspot": [69, 433, 847, 632],
+                            "hotspot": [68, 410, 855, 636],
                             "assets": []
                         }, {
                             "id": "SC_L2_SB_Ch2_p24_ACT04",
-                            "hotspot": [58, 651, 835, 864],
+                            "hotspot": [57, 642, 842, 863],
                             "assets": []
                         }, {
                             "id": "SC_L2_SB_Ch2_p24_ACT05",
-                            "hotspot": [537, 879, 886, 1140],
+                            "hotspot": [536, 861, 892, 1139],
                             "assets": [{
                                 "type": "image",
                                 "file": "images/SC_L2_GR_Ch2.jpg "
                             }]
                         }, {
                             "id": "SC_L2_SB_Ch2_p24_ACT06",
-                            "hotspot": [56, 874, 587, 1116],
+                            "hotspot": [55, 866, 588, 1115],
                             "assets": [{
                                 "type": "answers",
                                 "content": ["It's Tom's lunchbox.", "It's Ellie's jacket.", "It's Biblio's arm."]
@@ -778,7 +764,7 @@ manifest =
                             "hotspot": [40, 921, 845, 1081],
                             "assets": [{
                                 "type": "tips",
-                                "content": "Before the lesson, use <i>Notepad<i/> to prepare any extra information you would like to share with the children for the Find Out More section.  "
+                                "content": "Before the lesson, use <i>Notepad</i> to prepare any extra information you would like to share with the children for the Find Out More section."
                             }]
                         }],
                         "assets": []
@@ -793,11 +779,11 @@ manifest =
                         "data": "<img src=\"images/SB_p26.jpg\">",
                         "epv": [{
                             "id": "SC_L2_SB_Ch2_p26_ACT01",
-                            "hotspot": [46, 183, 844, 733],
+                            "hotspot": [45, 130, 871, 690],
                             "assets": []
                         }, {
                             "id": "SC_L2_SB_Ch2_p26_ACT02",
-                            "hotspot": [52, 757, 838, 1101],
+                            "hotspot": [50, 691, 873, 1136],
                             "assets": []
                         }],
                         "assets": []
@@ -826,9 +812,6 @@ manifest =
                                 "type": "audio",
                                 "file": "audio/SC_L2_Ch2_CD1_24_SB.mp3",
                                 "srt": "audio/srt/SC_L2_Ch2_CD1_24_SB.srt"
-                            }, {
-                                "type": "tips",
-                                "content": "Remind the children to do the Activity Book Review section by selecting the AB Review option in the Dropdown menu."
                             }]
                         }, {
                             "id": "SC_L2_SB_Ch2_p27_ACT03",
@@ -839,7 +822,7 @@ manifest =
                             "hotspot": [433, 775, 884, 1143],
                             "assets": [{
                                 "type": "image",
-                                "file": "images/ppSC_L2_Welcome_p04_p05.jpg"
+                                "file": "images/SC_L2_Welcome_p04_p05.jpg"
                             }]
                         }],
                         "assets": []
@@ -888,7 +871,7 @@ manifest =
                                 "srt": "audio/srt/SC_L2_Ch3_CD1_26_SB.srt"
                             }, {
                                 "type": "tips",
-                                "content": "Use <i>Spotlight<i/> to show part of the picture, e.g. one of the children. Ask children to describe what they are wearing."
+                                "content": "Use <i>Spotlight</i> to show part of the picture, e.g. one of the children. Ask children to describe what they are wearing."
                             }]
                         }, {
                             "id": "SC_L2_SB_Ch3_p29_ACT03",
@@ -946,11 +929,11 @@ manifest =
                             }]
                         }, {
                             "id": "SC_L2_SB_Ch3_p30_ACT04",
-                            "hotspot": [401, 184, 1342, 633],
+                            "hotspot": [385, 170, 1349, 634],
                             "assets": []
                         }, {
                             "id": "SC_L2_SB_Ch3_p31_ACT05",
-                            "hotspot": [412, 661, 895, 1118],
+                            "hotspot": [392, 639, 899, 1130],
                             "assets": []
                         }, {
                             "id": "SC_L2_SB_Ch3_p30_ACT06",
@@ -966,7 +949,7 @@ manifest =
                                 "id": "SC_L2_SB_Ch3_p31_ACT08"
                             }, {
                                 "type": "tips",
-                                "content": "Go to the Reader component to see the full Reader story and Storytelling Video."
+                                "content": "Go to the Reader component to see the full Reader story and Oral Storytelling Video."
                             }]
                         }],
                         "assets": [{
@@ -995,7 +978,7 @@ manifest =
                                 "srt": "audio/srt/SC_L2_Ch3_CD1_29_SB.srt"
                             }, {
                                 "type": "tips",
-                                "content": "Go to the Reader component to see the full Reader story."
+                                "content": "Go to the Reader component to see the full Reader story and Oral Storytelling Video."
                             }]
                         }, {
                             "id": "SC_L2_SB_Ch3_p32_ACT02",
@@ -1079,11 +1062,11 @@ manifest =
                             "assets": []
                         }, {
                             "id": "SC_L2_SB_Ch3_p34_ACT03",
-                            "hotspot": [58, 415, 850, 617],
+                            "hotspot": [34, 405, 848, 616],
                             "assets": []
                         }, {
                             "id": "SC_L2_SB_Ch3_p34_ACT04",
-                            "hotspot": [52, 635, 850, 822],
+                            "hotspot": [50, 623, 855, 845],
                             "assets": []
                         }, {
                             "id": "SC_L2_SB_Ch3_p34_ACT05",
@@ -1129,7 +1112,7 @@ manifest =
                             }]
                         }, {
                             "id": "SC_L2_SB_Ch3_p35_ACT02",
-                            "hotspot": [34, 170, 884, 948],
+                            "hotspot": [32, 734, 822, 946],
                             "assets": [{
                                 "type": "interactive",
                                 "title": "Dialog Builder",
@@ -1141,7 +1124,7 @@ manifest =
                             "hotspot": [52, 957, 796, 1100],
                             "assets": [{
                                 "type": "tips",
-                                "content": "Use <i>Notepad<i/> to record the children’s answers in the Class Vote. You can use these notes in future lessons and see if the children still answer the same or if they have changed their minds. "
+                                "content": "Use <i>Notepad</i> to record the children’s answers in the Class Vote. You can use these notes in future lessons and see if the children still answer the same or if they have changed their minds."
                             }]
                         }],
                         "assets": []
@@ -1189,13 +1172,10 @@ manifest =
                                 "title": "Dialog Builder",
                                 "url": "./dialogbuilder/dialogbuilder.html",
                                 "id": "SC_L2_SB_Ch3_p37_ACT02"
-                            }, {
-                                "type": "tips",
-                                "content": "Remind the children to do the Activity Book Review section by selecting the AB Review option in the Dropdown menu."
                             }]
                         }, {
                             "id": "SC_L2_SB_Ch3_p37_ACT03",
-                            "hotspot": [36, 741, 677, 1100],
+                            "hotspot": [35, 730, 673, 1098],
                             "assets": []
                         }, {
                             "id": "SC_L2_SB_Ch3_p37_ACT04",
@@ -1251,7 +1231,7 @@ manifest =
                                 "srt": "audio/srt/SC_L2_Ch4_CD1_36_SB.srt"
                             }, {
                                 "type": "tips",
-                                "content": "Use <i>Spotlight<i/> to display a small area of a picture to focus on. Click on one of the squares in the corner to change the size of the viewable area."
+                                "content": "Use <i>Spotlight</i> to display a small area of a picture to focus on. Click on one of the squares in the corner to change the size of the viewable area."
                             }]
                         }, {
                             "id": "SC_L2_SB_Ch4_p39_ACT03",
@@ -1411,8 +1391,14 @@ manifest =
                                 "srt": "audio/srt/SC_L2_Ch4_CD1_40_SB.srt"
                             }, {
                                 "type": "video",
-                                "file": "video/SC_ASL_L2_Ch4B_SD.mp4\n",
-                                "srt": "video/srt/"
+                                "file": "video/SC_ASL_L2_Ch4B_SD.mp4",
+                                "srt": ""
+                            }, {
+                                "type": "video",
+                                "file": "video/SC_MUS_K_L2_Ch4_SD.mp4"
+                            }, {
+                                "type": "video",
+                                "file": "video/SC_MUS_L2_Ch4_SD.mp4"
                             }]
                         }, {
                             "id": "SC_L2_SB_Ch4_p43_ACT02",
@@ -1447,7 +1433,7 @@ manifest =
                             }]
                         }, {
                             "id": "SC_L2_SB_Ch4_p44_ACT02",
-                            "hotspot": [68, 193, 850, 396],
+                            "hotspot": [67, 171, 863, 405],
                             "assets": []
                         }, {
                             "id": "SC_L2_SB_Ch4_p44_ACT03",
@@ -1462,11 +1448,11 @@ manifest =
                             "hotspot": [508, 879, 886, 1137],
                             "assets": [{
                                 "type": "image",
-                                "file": "images/SC_L2_GR4_Ch4.jpg "
+                                "file": "images/SC_L2_GR_Ch4.jpg"
                             }]
                         }, {
                             "id": "SC_L2_SB_Ch4_p44_ACT06",
-                            "hotspot": [50, 839, 584, 1088],
+                            "hotspot": [49, 827, 587, 1087],
                             "assets": [{
                                 "type": "interactive",
                                 "title": "Dialog Builder",
@@ -1498,7 +1484,7 @@ manifest =
                             }]
                         }, {
                             "id": "SC_L2_SB_Ch4_p45_ACT02",
-                            "hotspot": [31, 607, 855, 975],
+                            "hotspot": [29, 606, 852, 981],
                             "assets": [{
                                 "type": "interactive",
                                 "title": "Dialog Builder",
@@ -1507,7 +1493,7 @@ manifest =
                             }]
                         }, {
                             "id": "SC_L2_SB_Ch4_p45_ACT03",
-                            "hotspot": [20, 966, 828, 1117],
+                            "hotspot": [19, 977, 820, 1116],
                             "assets": []
                         }],
                         "assets": []
@@ -1552,7 +1538,7 @@ manifest =
                                 "srt": "audio/srt/SC_L2_Ch4_CD1_44_SB.srt"
                             }, {
                                 "type": "tips",
-                                "content": "Use <i>Pen<i/> tool to draw the time on the clocks."
+                                "content": "Use <i>Pen</i> to draw the time on the clocks."
                             }]
                         }, {
                             "id": "SC_L2_SB_Ch4_p47_ACT02",
@@ -1560,17 +1546,14 @@ manifest =
                             "assets": [{
                                 "type": "answers",
                                 "content": ["Children's own answers"]
-                            }, {
-                                "type": "tips",
-                                "content": "Remind the children to do the Activity Book Review section by selecting the AB Review option  in the Dropdown menu."
                             }]
                         }, {
                             "id": "SC_L2_SB_Ch4_p47_ACT03",
-                            "hotspot": [37, 774, 451, 1120],
+                            "hotspot": [35, 773, 461, 1118],
                             "assets": []
                         }, {
                             "id": "SC_L2_SB_Ch4_p47_ACT04",
-                            "hotspot": [427, 796, 883, 1142],
+                            "hotspot": [466, 796, 881, 1141],
                             "assets": [{
                                 "type": "image",
                                 "file": "images/SC_L2_Welcome_p04_p05.jpg "
@@ -1624,6 +1607,10 @@ manifest =
                                 "title": "Dialog Builder",
                                 "url": "./dialogbuilder/dialogbuilder.html",
                                 "id": "SC_L2_SB_Ch5_p49_ACT03"
+                            }, {
+                                "type": "audio",
+                                "file": "audio/SC_L2_Ch5_CD1_46_SB.mp3",
+                                "srt": "audio/srt/SC_L2_Ch5_CD1_46_SB.srt"
                             }]
                         }, {
                             "id": "SC_L2_SB_Ch5_p49_ACT04",
@@ -1644,7 +1631,7 @@ manifest =
                         "pages": "50 & 51",
                         "pg_link": [{
                             "bookID": "1",
-                            "pageNum": "4"
+                            "pageNum": "40"
                         }],
                         "data": "<img src=\"images/SB_p50.jpg\"><img src=\"images/SB_p51.jpg\">",
                         "epv": [{
@@ -1704,7 +1691,7 @@ manifest =
                                 "id": "SC_L2_SB_Ch5_p51_ACT10"
                             }, {
                                 "type": "tips",
-                                "content": "Go to the Reader component to see the full Reader story."
+                                "content": "Go to the Reader component to see the full Reader story and Oral Storytelling Video."
                             }]
                         }],
                         "assets": [{
@@ -1733,7 +1720,7 @@ manifest =
                                 "srt": "audio/srt/SC_L2_Ch5_CD1_49_SB.srt"
                             }, {
                                 "type": "tips",
-                                "content": "Go to the Reader component to see the full Reader story.<br/>"
+                                "content": "Go to the Reader component to see the full Reader story and Oral Storytelling Video."
                             }]
                         }, {
                             "id": "SC_L2_SB_Ch5_p52_ACT02",
@@ -1776,7 +1763,7 @@ manifest =
                             }, {
                                 "type": "video",
                                 "file": "video/SC_ASL_L2_Ch5B_SD.mp4",
-                                "srt": "video/srt/"
+                                "srt": ""
                             }]
                         }, {
                             "id": "SC_L2_SB_Ch5_p53_ACT02",
@@ -1784,7 +1771,7 @@ manifest =
                             "assets": []
                         }, {
                             "id": "SC_L2_SB_Ch5_p53_ACT03",
-                            "hotspot": [26, 908, 821, 1134],
+                            "hotspot": [24, 878, 829, 1133],
                             "assets": [{
                                 "type": "audio",
                                 "file": "audio/SC_L2_Ch5_CD1_51_SB.mp3",
@@ -1811,14 +1798,14 @@ manifest =
                             }]
                         }, {
                             "id": "SC_L2_SB_Ch5_p54_ACT02",
-                            "hotspot": [68, 190, 845, 387],
+                            "hotspot": [67, 189, 847, 405],
                             "assets": [{
                                 "type": "tips",
-                                "content": "Use the biggest <i>Pen<i/> to cover key words from a song or story. Ask the children to predict those words. When the children have guessed, click on each word with <i>Eraser<i/> to uncover it. "
+                                "content": "Use the biggest <i>Pen</i> to cover key words from a song or story. Ask the children to predict those words. When the children have guessed, click on each word with <i>Eraser</i> to uncover it."
                             }]
                         }, {
                             "id": "SC_L2_SB_Ch5_p54_ACT03",
-                            "hotspot": [71, 419, 848, 633],
+                            "hotspot": [70, 407, 853, 632],
                             "assets": []
                         }, {
                             "id": "SC_L2_SB_Ch5_p54_ACT04",
@@ -1833,7 +1820,7 @@ manifest =
                             }]
                         }, {
                             "id": "SC_L2_SB_Ch5_p54_ACT06",
-                            "hotspot": [52, 829, 569, 1098],
+                            "hotspot": [50, 837, 569, 1097],
                             "assets": [{
                                 "type": "answers",
                                 "content": ["good, (children's own answer)", "Are you (children's  own answer)?", "children's own answer", "children's own answer"]
@@ -1867,7 +1854,7 @@ manifest =
                                 "srt": "audio/srt/SC_L2_Ch5_CD1_53_SB.srt"
                             }, {
                                 "type": "tips",
-                                "content": "Use <i>Spotlight<i/> to help the children focus on the text while they listen. This way they will not be distracted by the images or other elements on the page.  "
+                                "content": "Use <i>Spotlight</i> to help the children focus on the text while they listen. This way they will not be distracted by the images or other elements on the page."
                             }]
                         }, {
                             "id": "SC_L2_SB_Ch5_p55_ACT02",
@@ -1928,9 +1915,6 @@ manifest =
                                 "type": "audio",
                                 "file": "audio/SC_L2_Ch5_CD1_54_SB.mp3",
                                 "srt": "audio/srt/SC_L2_Ch5_CD1_54_SB.srt"
-                            }, {
-                                "type": "tips",
-                                "content": "Remind the children to do the Activity Book Review section by selecting the AB Review option  in the Dropdown menu."
                             }]
                         }, {
                             "id": "SC_L2_SB_Ch5_p57_ACT03",
@@ -1941,7 +1925,7 @@ manifest =
                             "hotspot": [431, 791, 887, 1140],
                             "assets": [{
                                 "type": "image",
-                                "file": "images/ppSC_L2_Welcome_p04_p05.jpg"
+                                "file": "images/SC_L2_Welcome_p04_p05.jpg"
                             }]
                         }],
                         "assets": []
@@ -1979,20 +1963,18 @@ manifest =
                         }, {
                             "id": "SC_L2_SB_Ch6_p59_ACT02",
                             "hotspot": [940, 122, 1777, 789],
-                            "assets": []
+                            "assets": [{
+                                "type": "audio",
+                                "file": "audio/SC_L2_Ch6_CD2_03_SB.mp3",
+                                "srt": "audi/srt/SC_L2_Ch6_CD2_03_SB.srt"
+                            }, {
+                                "type": "interactive",
+                                "id": "SC_L2_SB_Ch6_p59_ACT03"
+                            }]
                         }, {
                             "id": "SC_L2_SB_Ch6_p59_ACT03",
                             "hotspot": [912, 87, 1764, 860],
-                            "assets": [{
-                                "type": "interactive",
-                                "title": "Dialog Builder",
-                                "url": "./dialogbuilder/dialogbuilder.html",
-                                "id": "SC_L2_SB_Ch6_p59_ACT03"
-                            }, {
-                                "type": "audio",
-                                "file": "audio/SC_L2_Ch6_CD2_03_SB.mp3",
-                                "srt": "audio/srt/SC_L2_Ch6_CD2_03_SB.srt"
-                            }]
+                            "assets": []
                         }, {
                             "id": "SC_L2_SB_Ch6_p59_ACT04",
                             "hotspot": [1371, 845, 1774, 1140],
@@ -2025,7 +2007,7 @@ manifest =
                             }]
                         }, {
                             "id": "SC_L2_SB_Ch6_p60_ACT02",
-                            "hotspot": [1418, 188, 1752, 287],
+                            "hotspot": [1417, 183, 1774, 299],
                             "assets": []
                         }, {
                             "id": "SC_L2_SB_Ch6_p61_ACT03",
@@ -2036,7 +2018,7 @@ manifest =
                                 "srt": "audio/srt/SC_L2_Ch6_CD2_05_SB.srt"
                             }, {
                                 "type": "tips",
-                                "content": "Use <i>Mask<i/> to cover the image. Ask the children a question about the picture, e.g. What room is it?  You can reveal the image gradually by clicking on one of the squares in the corner and dragging slowly until the picture is fully revealed.  <i>Mask<i/>"
+                                "content": "Use <i>Mask</i> to cover the image. Ask the children a question about the picture, e.g. What room is it?  You can reveal the image gradually by clicking on one of the squares in the corner and dragging slowly until the picture is fully revealed."
                             }]
                         }, {
                             "id": "SC_L2_SB_Ch6_p60_ACT04",
@@ -2112,7 +2094,7 @@ manifest =
                         "pages": "63",
                         "pg_link": [{
                             "bookID": "1",
-                            "pageNum": "5"
+                            "pageNum": "50"
                         }],
                         "data": "<img src=\"images/SB_p63.jpg\">",
                         "epv": [{
@@ -2130,7 +2112,13 @@ manifest =
                             }, {
                                 "type": "video",
                                 "file": "video/SC_ASL_L2_Ch6B_SD.mp4",
-                                "srt": "video/srt/"
+                                "srt": ""
+                            }, {
+                                "type": "video",
+                                "file": "video/SC_MUS_K_L2_Ch6_SD.mp4"
+                            }, {
+                                "type": "video",
+                                "file": "video/SC_MUS_L2_Ch6_SD.mp4"
                             }]
                         }, {
                             "id": "SC_L2_SB_Ch6_p63_ACT02",
@@ -2267,10 +2255,7 @@ manifest =
                         }, {
                             "id": "SC_L2_SB_Ch6_p67_ACT02",
                             "hotspot": [17, 534, 844, 755],
-                            "assets": [{
-                                "type": "tips",
-                                "content": "Remind the children to do the Activity Book Review section by selecting the AB Review option in the Dropdown menu."
-                            }]
+                            "assets": []
                         }, {
                             "id": "SC_L2_SB_Ch6_p67_ACT03",
                             "hotspot": [17, 739, 661, 1095],
@@ -2280,7 +2265,7 @@ manifest =
                             "hotspot": [427, 773, 882, 1139],
                             "assets": [{
                                 "type": "image",
-                                "file": "images/ppSC_L2_Welcome_p04_p05.jpg"
+                                "file": "images/SC_L2_Welcome_p04_p05.jpg"
                             }]
                         }],
                         "assets": []
@@ -2313,11 +2298,11 @@ manifest =
                             }, {
                                 "type": "video",
                                 "file": "video/SC_ASL_L2_Ch7A_SD.mp4",
-                                "srt": "video/srt/"
+                                "srt": ""
                             }]
                         }, {
                             "id": "SC_L2_SB_Ch7_p69_ACT02",
-                            "hotspot": [940, 113, 1729, 672],
+                            "hotspot": [938, 112, 1735, 675],
                             "assets": [{
                                 "type": "interactive",
                                 "title": "Dialog Builder",
@@ -2330,7 +2315,7 @@ manifest =
                             }]
                         }, {
                             "id": "SC_L2_SB_Ch7_p69_ACT03",
-                            "hotspot": [906, 127, 1714, 809],
+                            "hotspot": [904, 670, 1757, 819],
                             "assets": [{
                                 "type": "interactive",
                                 "title": "Dialog Builder",
@@ -2349,7 +2334,7 @@ manifest =
                             "hotspot": [925, 819, 1469, 1100],
                             "assets": [{
                                 "type": "tips",
-                                "content": "Use Highlighter to focus on pronunciation. Choose words the children have difficulty in pronouncing. You could highlight single sounds or stressed syllables. "
+                                "content": "Use <i>Highlighter</i> to focus on pronunciation. Choose words the children have difficulty in pronouncing. You could highlight single sounds or stressed syllables."
                             }]
                         }],
                         "assets": []
@@ -2387,11 +2372,7 @@ manifest =
                             }]
                         }, {
                             "id": "SC_L2_SB_Ch7_p70_ACT04",
-                            "hotspot": [440, 209, 874, 527],
-                            "assets": []
-                        }, {
-                            "id": "SC_L2_SB_Ch7_p71_ACT05",
-                            "hotspot": [896, 207, 1328, 531],
+                            "hotspot": [438, 193, 1335, 526],
                             "assets": []
                         }, {
                             "id": "SC_L2_SB_Ch7_p70_ACT06",
@@ -2419,7 +2400,7 @@ manifest =
                                 "id": "SC_L2_SB_Ch7_p71_ACT10"
                             }, {
                                 "type": "tips",
-                                "content": "Go to the Reader component to see the full Reader story."
+                                "content": "Go to the Reader component to see the full Reader story and Oral Storytelling Video."
                             }]
                         }],
                         "assets": [{
@@ -2448,7 +2429,7 @@ manifest =
                                 "srt": "audio/srt/SC_L2_Ch7_CD2_16_SB.srt"
                             }, {
                                 "type": "tips",
-                                "content": "Go to the Reader component to see the full Reader story."
+                                "content": "Go to the Reader component to see the full Reader story and Oral Storytelling Video."
                             }]
                         }, {
                             "id": "SC_L2_SB_Ch7_p72_ACT02",
@@ -2492,8 +2473,7 @@ manifest =
                                 "srt": "audio/srt/SC_L2_Ch7_CD2_17_SB.srt"
                             }, {
                                 "type": "video",
-                                "file": "video/SC_ASL_L2_Ch7B_SD.mp4",
-                                "srt": "video/srt/"
+                                "file": "video/SC_ASL_L2_Ch7B_SD.mp4"
                             }]
                         }, {
                             "id": "SC_L2_SB_Ch7_p73_ACT02",
@@ -2551,10 +2531,6 @@ manifest =
                             "assets": [{
                                 "type": "answers",
                                 "content": ["travels", "doesn't", "Does, he doesn't", "do, he does"]
-                            }, {
-                                "type": "audio",
-                                "file": "audio/SC_L2_Ch7_CD2_20_SB.mp3",
-                                "srt": "audio/srt/SC_L2_Ch7_CD2_20_SB.srt"
                             }]
                         }],
                         "assets": [{
@@ -2579,6 +2555,10 @@ manifest =
                                 "title": "Dialog Builder",
                                 "url": "./dialogbuilder/dialogbuilder.html",
                                 "id": "SC_L2_SB_Ch7_p75_ACT01"
+                            }, {
+                                "type": "audio",
+                                "file": "audio/SC_L2_Ch7_CD2_20_SB.mp3",
+                                "srt": "audio/srt/SC_L2_Ch7_CD2_20_SB.srt"
                             }]
                         }, {
                             "id": "SC_L2_SB_Ch7_p75_ACT02",
@@ -2643,9 +2623,6 @@ manifest =
                             "assets": [{
                                 "type": "answers",
                                 "content": ["does she work - A", "does she do - A", "Where does she work? - B", "does she do - B", "take care - A", "Does she - A"]
-                            }, {
-                                "type": "tips",
-                                "content": "Remind the children to do the Activity Book Review section by selecting the AB Review option in the Dropdown menu."
                             }]
                         }, {
                             "id": "SC_L2_SB_Ch7_p77_ACT03",
@@ -2653,10 +2630,10 @@ manifest =
                             "assets": []
                         }, {
                             "id": "SC_L2_SB_Ch7_p77_ACT04",
-                            "hotspot": [414, 773, 883, 1136],
+                            "hotspot": [407, 802, 881, 1134],
                             "assets": [{
                                 "type": "image",
-                                "file": "images/ppSC_L2_Welcome_p04_p05.jpg"
+                                "file": "images/SC_L2_Welcome_p04_p05.jpg"
                             }]
                         }],
                         "assets": []
@@ -2689,10 +2666,10 @@ manifest =
                             }, {
                                 "type": "video",
                                 "file": "video/SC_ASL_L2_Ch8A_SD.mp4",
-                                "srt": "video/srt/"
+                                "srt": ""
                             }, {
                                 "type": "tips",
-                                "content": "<br/>Find it fast! – Before the next lesson, hide the key words with Pen. Show the image. Have the children work in pairs or groups to find a list of items. You could use Notepad for this. The first team to finish wins a point. Use Timer to provide a time limit. "
+                                "content": "Find it fast! – Before the next lesson, hide the key words with <i>Pen</i>. Show the image. Have the children work in pairs or groups to find a list of items. You could use <i>Notepad</i> for this. The first team to finish wins a point. Use <i>Timer</i> to provide a time limit."
                             }]
                         }, {
                             "id": "SC_L2_SB_Ch8_p79_ACT02",
@@ -2863,7 +2840,13 @@ manifest =
                             }, {
                                 "type": "video",
                                 "file": "video/SC_ASL_L2_Ch8B_SD.mp4",
-                                "srt": "video/srt/"
+                                "srt": ""
+                            }, {
+                                "type": "video",
+                                "file": "video/SC_MUS_K_L2_Ch8_SD.mp4"
+                            }, {
+                                "type": "video",
+                                "file": "audio/SC_MUS_L2_Ch8_SD.mp4"
                             }]
                         }, {
                             "id": "SC_L2_SB_Ch8_p83_ACT02",
@@ -2978,7 +2961,7 @@ manifest =
                         "data": "<img src=\"images/SB_p86.jpg\">",
                         "epv": [{
                             "id": "SC_L2_SB_Ch8_p86_ACT01",
-                            "hotspot": [216, 196, 722, 428],
+                            "hotspot": [215, 137, 701, 444],
                             "assets": []
                         }, {
                             "id": "SC_L2_SB_Ch8_p86_ACT02",
@@ -2986,7 +2969,7 @@ manifest =
                             "assets": []
                         }, {
                             "id": "SC_L2_SB_Ch8_p86_ACT03",
-                            "hotspot": [108, 744, 848, 1092],
+                            "hotspot": [107, 704, 856, 1090],
                             "assets": []
                         }],
                         "assets": []
@@ -3015,9 +2998,6 @@ manifest =
                             "assets": [{
                                 "type": "answers",
                                 "content": ["do they eat", "do they live", "do they sleep", "Do they have"]
-                            }, {
-                                "type": "tips",
-                                "content": "Remind the children to do the Activity Book Review section by selecting the AB Review option in the Dropdown menu."
                             }]
                         }, {
                             "id": "SC_L2_SB_Ch8_p87_ACT03",
@@ -3028,7 +3008,7 @@ manifest =
                             "hotspot": [409, 787, 884, 1145],
                             "assets": [{
                                 "type": "image",
-                                "file": "images/ppSC_L2_Welcome_p04_p05.jpg"
+                                "file": "images/SC_L2_Welcome_p04_p05.jpg"
                             }]
                         }],
                         "assets": []
@@ -3075,7 +3055,7 @@ manifest =
                                 "srt": "audio/srt/SC_L2_Ch9_CD2_33_SB.srt"
                             }, {
                                 "type": "tips",
-                                "content": "Before listening, ask the children to look at the picture and say what they think Maria likes. Have volunteers use <i>Pen</i> to circle the things the other children name. After listening, change the color of <i>Pen</i> and ask the children again. <i>Pen</i>"
+                                "content": "Before listening, ask the children to look at the picture and say what they think Maria likes. Have volunteers use <i>Pen</i> to circle the things the other children name. After listening, change the color of <i>Pen</i> and ask the children again."
                             }]
                         }, {
                             "id": "SC_L2_SB_Ch9_p89_ACT03",
@@ -3154,7 +3134,7 @@ manifest =
                                 "id": "SC_L2_SB_Ch9_p91_ACT08"
                             }, {
                                 "type": "tips",
-                                "content": "Go to the Reader component to see the full Reader story and Storytelling Video."
+                                "content": "Go to the Reader component to see the full Reader story and Oral Storytelling Video."
                             }]
                         }],
                         "assets": [{
@@ -3173,7 +3153,7 @@ manifest =
                             "bookID": "2",
                             "pageNum": "29"
                         }],
-                        "data": "<img src=\"images/SB_p93.jpg\">",
+                        "data": "<img src=\"images/SB_p92.jpg\">",
                         "epv": [{
                             "id": "SC_L2_SB_Ch9_p92_ACT01",
                             "hotspot": [0, 0, 0, 0],
@@ -3183,7 +3163,7 @@ manifest =
                                 "srt": "audio/srt/SC_L2_Ch9_CD2_36_SB.srt"
                             }, {
                                 "type": "tips",
-                                "content": "Go to the Reader component to see the full Reader story and Storytelling Video.<br/>"
+                                "content": "Go to the Reader component to see the full Reader story and Oral Storytelling Video."
                             }]
                         }, {
                             "id": "SC_L2_SB_Ch9_p92_ACT02",
@@ -3196,10 +3176,12 @@ manifest =
                             }]
                         }, {
                             "id": "SC_L2_SB_Ch9_p92_ACT03",
-                            "hotspot": [0, 0, 0, 0]
+                            "hotspot": [0, 0, 0, 0],
+                            "assets": []
                         }, {
                             "id": "SC_L2_SB_Ch9_p92_ACT04",
-                            "hotspot": [0, 0, 0, 0]
+                            "hotspot": [0, 0, 0, 0],
+                            "assets": []
                         }],
                         "assets": []
                     },
@@ -3281,7 +3263,11 @@ manifest =
                             "hotspot": [58, 847, 591, 1127],
                             "assets": []
                         }],
-                        "assets": []
+                        "assets": [{
+                            "type": "audio",
+                            "file": "audio/SC_L2_Ch9_CD2_39_SB.mp3",
+                            "srt": "audio/srt/SC_L2_Ch9_CD2_39_SB.srt"
+                        }]
                     },
                     "72": {
                         "title": "Lesson 7",
@@ -3360,10 +3346,7 @@ manifest =
                         }, {
                             "id": "SC_L2_SB_Ch9_p97_ACT02",
                             "hotspot": [29, 512, 861, 746],
-                            "assets": [{
-                                "type": "tips",
-                                "content": "Remind the children to do the Activity Book Review section by selecting the AB Review option in the Dropdown menu."
-                            }]
+                            "assets": []
                         }, {
                             "id": "SC_L2_SB_Ch9_p97_ACT03",
                             "hotspot": [39, 761, 652, 1100],
@@ -3373,7 +3356,7 @@ manifest =
                             "hotspot": [433, 775, 884, 1140],
                             "assets": [{
                                 "type": "image",
-                                "file": "images/ppSC_L2_Welcome_p04_p05.jpg"
+                                "file": "images/SC_L2_Welcome_p04_p05.jpg"
                             }]
                         }],
                         "assets": []
@@ -3393,7 +3376,7 @@ manifest =
                         "data": "<img src=\"images/SB_p98.jpg\"><img src=\"images/SB_p99.jpg\">",
                         "epv": [{
                             "id": "SC_L2_SB_GR_p98_ACT01",
-                            "hotspot": [20, 124, 863, 659],
+                            "hotspot": [19, 67, 852, 657],
                             "assets": []
                         }, {
                             "id": "SC_L2_SB_GR_p98_ACT02",
@@ -3408,7 +3391,10 @@ manifest =
                             "hotspot": [893, 502, 1732, 1082],
                             "assets": []
                         }],
-                        "assets": []
+                        "assets": [{
+                            "type": "tips",
+                            "content": "For the AB Grammar Reference pages, use the dropdown Menu, or navigate to the AB from SB p98, then use the forward/back arrows to move to the Chapter you want."
+                        }]
                     },
                     "76": {
                         "title": "Grammar Reference",
@@ -3492,7 +3478,7 @@ manifest =
                             }]
                         }, {
                             "id": "SC_L2_AB_ChW_p5_ACT04",
-                            "hotspot": [904, 140, 1767, 1129],
+                            "hotspot": [903, 219, 1758, 1127],
                             "assets": [{
                                 "type": "interactive",
                                 "title": "Dialog Builder",
@@ -3690,11 +3676,11 @@ manifest =
                         "data": "<img src=\"images/AB_p13.jpg\">",
                         "epv": [{
                             "id": "SC_L2_AB_Ch1_p13_ACT01",
-                            "hotspot": [46, 56, 828, 717],
+                            "hotspot": [45, 55, 837, 707],
                             "assets": []
                         }, {
                             "id": "SC_L2_AB_Ch1_p13_ACT02",
-                            "hotspot": [71, 139, 860, 1114],
+                            "hotspot": [33, 709, 861, 1130],
                             "assets": []
                         }],
                         "assets": []
@@ -3823,7 +3809,7 @@ manifest =
                                 "content": ["Spanish, sports, spider", "school, scooter, scary"]
                             }, {
                                 "type": "tips",
-                                "content": "Use Pen to complete and/or <br/>demonstrate the Reveal Answers activities in the Activity Book. You can draw lines for matching activities and draw circles for circling activities."
+                                "content": "Use <i>Pen</i> to complete and/or demonstrate the Reveal Answers activities in the Activity Book. You can draw lines for matching activities and draw circles for circling activities."
                             }]
                         }],
                         "assets": []
@@ -3881,19 +3867,11 @@ manifest =
                             "assets": []
                         }, {
                             "id": "SC_L2_AB_Ch2_p21_ACT02",
-                            "hotspot": [53, 148, 441, 565],
-                            "assets": []
-                        }, {
-                            "id": "SC_L2_AB_Ch2_p21_ACT03",
-                            "hotspot": [463, 142, 771, 539],
+                            "hotspot": [52, 135, 818, 563],
                             "assets": []
                         }, {
                             "id": "SC_L2_AB_Ch2_p21_ACT04",
-                            "hotspot": [78, 578, 409, 976],
-                            "assets": []
-                        }, {
-                            "id": "SC_L2_AB_Ch2_p21_ACT05",
-                            "hotspot": [387, 521, 886, 1081],
+                            "hotspot": [52, 558, 880, 1126],
                             "assets": []
                         }],
                         "assets": []
@@ -3908,28 +3886,28 @@ manifest =
                         "pages": "22 & 23",
                         "data": "<img src=\"images/AB_p22.jpg\"><img src=\"images/ AB_p23.jpg\">",
                         "epv": [{
-                            "id": "SC_L2_AB_Ch3_p22_ACT01",
-                            "hotspot": [39, 219, 435, 284],
-                            "assets": []
-                        }, {
-                            "id": "SC_L2_AB_Ch3_p22_ACT02",
-                            "hotspot": [447, 151, 880, 530],
-                            "assets": [{
-                                "type": "interactive",
-                                "title": "Dialog Builder",
-                                "url": "./dialogbuilder/dialogbuilder.html",
-                                "id": "SC_L2_AB_Ch3_p22_ACT02"
-                            }]
-                        }, {
                             "id": "SC_L2_AB_Ch3_p22_ACT03",
-                            "hotspot": [58, 171, 886, 834],
+                            "hotspot": [15, 171, 858, 841],
                             "assets": [{
                                 "type": "answers",
                                 "content": ["dress", "T-shirt", "boots", "skirt", "shirt", "jeans", "pants", "shoes", "shorts"]
                             }]
                         }, {
+                            "id": "SC_L2_AB_Ch3_p22_ACT02",
+                            "hotspot": [15, 845, 870, 1129],
+                            "assets": [{
+                                "type": "interactive",
+                                "title": "Dialog Builder",
+                                "url": "./dialogbuilder/dialogbuilder.html",
+                                "id": ""
+                            }]
+                        }, {
+                            "id": "SC_L2_AB_Ch3_p22_ACT01",
+                            "hotspot": [14, 838, 882, 1127],
+                            "assets": []
+                        }, {
                             "id": "SC_L2_AB_Ch3_p22_ACT04",
-                            "hotspot": [31, 813, 887, 1107],
+                            "hotspot": [15, 845, 870, 1129],
                             "assets": [{
                                 "type": "interactive",
                                 "title": "Dialog Builder",
@@ -3977,17 +3955,14 @@ manifest =
                                 "content": ["What's", "weather", "cold", "Quick"]
                             }, {
                                 "type": "tips",
-                                "content": "Ask two children to come to the board and circle the answers they want using Pen. Then have them peform the dialogue for the class. Repeat this several times by using Eraser."
+                                "content": "Ask two children to come to the board and circle the answers they want using <i>Pen</i>. Then have them perform the dialogue for the class. Repeat this several times by using <i>Eraser.</i>"
                             }]
                         }, {
                             "id": "SC_L2_AB_Ch3_p24_ACT02",
-                            "hotspot": [59, 435, 837, 732],
+                            "hotspot": [58, 434, 839, 754],
                             "assets": [{
                                 "type": "answers",
                                 "content": ["hot and sunny", "old", "can't", "Silly", "emperor"]
-                            }, {
-                                "type": "tips",
-                                "content": "Go to the link to the story in the Student Book, pages 30 to 31. Review the story with the children."
                             }]
                         }, {
                             "id": "SC_L2_AB_Ch3_p24_ACT03",
@@ -4126,7 +4101,7 @@ manifest =
                                 "id": "SC_L2_AB_Ch4_p30_ACT01"
                             }, {
                                 "type": "tips",
-                                "content": "Use Spotlight to highlight each item. Ask What's this? What room? Elicit answers. "
+                                "content": "Use <i>Spotlight</i> to highlight each item. Ask <i>What's this? What room?</i> Elicit answers."
                             }]
                         }, {
                             "id": "SC_L2_AB_Ch4_p30_ACT02",
@@ -4155,10 +4130,7 @@ manifest =
                         }, {
                             "id": "SC_L2_AB_Ch4_p31_ACT04",
                             "hotspot": [921, 614, 1761, 928],
-                            "assets": [{
-                                "type": "tips",
-                                "content": "Have the children complete the sentences in their Activity Books before doing the matching activity on the Presentation Kit."
-                            }]
+                            "assets": []
                         }, {
                             "id": "SC_L2_AB_Ch4_p31_ACT05",
                             "hotspot": [892, 932, 1758, 1121],
@@ -4180,9 +4152,6 @@ manifest =
                             "assets": [{
                                 "type": "answers",
                                 "content": ["F", "T", "F", "T", "F"]
-                            }, {
-                                "type": "tips",
-                                "content": "Go to the to the Student Book to review the story with the children. "
                             }]
                         }, {
                             "id": "SC_L2_AB_Ch4_p32_ACT03",
@@ -4194,10 +4163,10 @@ manifest =
                     "25": {
                         "title": "Lesson 4",
                         "pages": "33",
-                        "data": "<img src=\"images/AB_p32.jpg\"><img src=\"images/AB_p33.jpg\">",
+                        "data": "<img src=\"images/AB_p33.jpg\">",
                         "epv": [{
                             "id": "SC_L2_AB_Ch4_p33_ACT01",
-                            "hotspot": [0, 0, 0, 0],
+                            "hotspot": [911, 33, 1767, 571],
                             "assets": [{
                                 "type": "interactive",
                                 "title": "Dialog Builder",
@@ -4206,10 +4175,12 @@ manifest =
                             }]
                         }, {
                             "id": "SC_L2_AB_Ch4_p33_ACT02",
-                            "hotspot": [0, 0, 0, 0]
+                            "hotspot": [916, 572, 1767, 959],
+                            "assets": []
                         }, {
                             "id": "SC_L2_AB_Ch4_p33_ACT03",
-                            "hotspot": [0, 0, 0, 0]
+                            "hotspot": [919, 961, 1771, 1117],
+                            "assets": []
                         }],
                         "assets": []
                     },
@@ -4281,7 +4252,7 @@ manifest =
                             "assets": []
                         }, {
                             "id": "SC_L2_AB_Ch4_p36_ACT02",
-                            "hotspot": [37, 376, 866, 960],
+                            "hotspot": [36, 390, 867, 959],
                             "assets": []
                         }, {
                             "id": "SC_L2_AB_Ch4_p36_ACT03",
@@ -4296,11 +4267,15 @@ manifest =
                         "data": "<img src=\"images/AB_p37.jpg\">",
                         "epv": [{
                             "id": "SC_L2_AB_Ch4_p37_ACT01",
-                            "hotspot": [42, 55, 853, 1020],
+                            "hotspot": [40, 33, 880, 164],
                             "assets": []
                         }, {
+                            "assets": [],
+                            "hotspot": [56, 167, 848, 1023],
+                            "id": "SC_L2_AB_Ch4_p37_ACT01a"
+                        }, {
                             "id": "SC_L2_AB_Ch4_p37_ACT02",
-                            "hotspot": [200, 1023, 853, 1121],
+                            "hotspot": [199, 1021, 855, 1129],
                             "assets": []
                         }],
                         "assets": []
@@ -4314,29 +4289,19 @@ manifest =
                         "title": "Lessons 1 and 2",
                         "pages": "38 & 39",
                         "data": "<img src=\"images/AB_p38.jpg\"><img src=\"images/AB_p39.jpg\">",
-                        "epv": [{
-                            "id": "SC_L2_AB_Ch5_p38_ACT01",
-                            "hotspot": [58, 228, 832, 523],
-                            "assets": []
-                        }, {
-                            "id": "SC_L2_AB_Ch5_p38_ACT02",
-                            "hotspot": [479, 512, 828, 853],
-                            "assets": [{
-                                "type": "interactive",
-                                "title": "Dialog Builder",
-                                "url": "./dialogbuilder/dialogbuilder.html",
-                                "id": "SC_L2_AB_Ch5_p38_ACT02"
-                            }]
-                        }, {
+                        "epv": [ {
                             "id": "SC_L2_AB_Ch5_p38_ACT03",
-                            "hotspot": [34, 196, 864, 868],
+                            "hotspot": [33, 210, 873, 853],
                             "assets": [{
                                 "type": "answers",
                                 "content": ["volleyball", "gymnastics", "basketball", "ping-pong", "tennis", "judo", "Horizontal: volleyball, gymnastics, basketball", "Vertical: ping-pong, tennis, judo"]
+                            }, {
+                                "type": "interactive",
+                                "id": "SC_L2_AB_Ch5_p38_ACT02"
                             }]
                         }, {
                             "id": "SC_L2_AB_Ch5_p38_ACT04",
-                            "hotspot": [50, 857, 860, 1104],
+                            "hotspot": [29, 854, 853, 1116],
                             "assets": [{
                                 "type": "interactive",
                                 "title": "Dialog Builder",
@@ -4406,7 +4371,7 @@ manifest =
                             "hotspot": [47, 517, 858, 853],
                             "assets": [{
                                 "type": "answers",
-                                "content": ["are playing (ping-pong)","are winning"]
+                                "content": ["are playing (ping-pong)", "are winning"]
                             }]
                         }, {
                             "id": "SC_L2_AB_Ch5_p41_ACT03",
@@ -4491,13 +4456,20 @@ manifest =
                         "data": "<img src=\"images/AB_p45.jpg\">",
                         "epv": [{
                             "id": "SC_L2_AB_Ch5_p45_ACT01",
-                            "hotspot": [31, 55, 870, 1110],
+                            "hotspot": [26, 46, 880, 229],
                             "assets": [{
                                 "type": "tips",
-                                "content": "Play board games as a whole class activity.<br/>Put the class into two or more teams. Have them think of a name for their team. Display the game for the whole class to see. You could use an online virtual die. Use Pen to mark where the counters should be, using Eraser to delete the mark each time the counter moves. Use Notepad to keep track of points."
+                                "content": "Play board games as a whole class activity.\n Put the class into two or more teams. Have them think of a name for their team. Display the game for the whole class to see. You could use an online virtual die. Use <i>Pen</i> to mark where the counters should be, using <i>Eraser</i> to delete the mark each time the counter moves. Use <i>Notepad</i> to keep track of points."
                             }]
+                        }, {
+                            "assets": [],
+                            "hotspot": [24, 226, 874, 1060],
+                            "id": "SC_L2_AB_Ch5_p45_ACT02"
                         }],
-                        "assets": []
+                        "assets": [{
+                            "type": "tips",
+                            "content": "Play board games as a whole class activity.<br/>Put the class into two or more teams. Have them think of a name for their team. Display the game for the whole class to see. You could use an online virtual die. Use Pen to mark where the counters should be, using Eraser to delete the mark each time the counter moves. Use Notepad to keep track of points."
+                        }]
                     }
                 }
             },
@@ -4508,31 +4480,23 @@ manifest =
                         "title": "Lessons 1 and 2",
                         "pages": "46 & 47",
                         "data": "<img src=\"images/AB_p46.jpg\"><img src=\"images/ AB_p47.jpg\">",
-                        "epv": [{
-                            "id": "SC_L2_AB_Ch6_p46_ACT01",
-                            "hotspot": [56, 223, 844, 742],
-                            "assets": [{
-                                "type": "interactive",
-                                "title": "Dialog Builder",
-                                "url": "./dialogbuilder/dialogbuilder.html",
-                                "id": "SC_L2_AB_Ch6_p46_ACT01"
-                            }]
-                        }, {
+                        "epv": [ {
                             "id": "SC_L2_AB_Ch6_p46_ACT02",
-                            "hotspot": [31, 196, 867, 746],
+                            "hotspot": [30, 222, 867, 745],
                             "assets": [{
                                 "type": "answers",
                                 "content": ["e get dressed", "f brush my teeth", "g comb my hair", "b eat breakfast", "d take a shower", "h make my bed", "c wash my face", "a get up"]
+                            }, {
+                                "type": "interactive",
+                                "id": "SC_L2_AB_Ch6_p46_ACT01"
+                            }, {
+                                "type": "interactive",
+                                "id": "SC_L2_AB_Ch6_p46_ACT03"
                             }]
                         }, {
                             "id": "SC_L2_AB_Ch6_p46_ACT03",
-                            "hotspot": [11, 739, 874, 1104],
-                            "assets": [{
-                                "type": "interactive",
-                                "title": "Dialog Builder",
-                                "url": "./dialogbuilder/dialogbuilder.html",
-                                "id": "SC_L2_AB_Ch6_p46_ACT03"
-                            }]
+                            "hotspot": [10, 738, 884, 1116],
+                            "assets": []
                         }, {
                             "id": "SC_L2_AB_Ch6_p46_ACT04",
                             "hotspot": [912, 55, 1727, 462],
@@ -4701,11 +4665,7 @@ manifest =
                             "assets": []
                         }, {
                             "id": "SC_L2_AB_Ch6_p53_ACT02",
-                            "hotspot": [24, 520, 479, 1113],
-                            "assets": []
-                        }, {
-                            "id": "SC_L2_AB_Ch6_p53_ACT03",
-                            "hotspot": [463, 552, 864, 1036],
+                            "hotspot": [23, 524, 874, 1136],
                             "assets": []
                         }],
                         "assets": []
@@ -4721,7 +4681,7 @@ manifest =
                         "data": "<img src=\"images/AB_p54.jpg\"><img src=\"images/ AB_p55.jpg\">",
                         "epv": [{
                             "id": "SC_L2_AB_Ch7_p54_ACT01",
-                            "hotspot": [34, 45, 889, 651],
+                            "hotspot": [33, 167, 877, 649],
                             "assets": [{
                                 "type": "interactive",
                                 "title": "Dialog Builder",
@@ -4782,7 +4742,7 @@ manifest =
                         "data": "<img src=\"images/AB_p57.jpg\">",
                         "epv": [{
                             "id": "SC_L2_AB_Ch7_p57_ACT01",
-                            "hotspot": [27, 50, 882, 649],
+                            "hotspot": [26, 49, 884, 662],
                             "assets": [{
                                 "type": "interactive",
                                 "title": "Dialog Builder",
@@ -4791,7 +4751,7 @@ manifest =
                             }]
                         }, {
                             "id": "SC_L2_AB_Ch7_p57_ACT02",
-                            "hotspot": [49, 619, 854, 969],
+                            "hotspot": [47, 658, 850, 967],
                             "assets": [{
                                 "type": "answers",
                                 "content": ["10", "12", "16"]
@@ -4823,7 +4783,7 @@ manifest =
                             }]
                         }, {
                             "id": "SC_L2_AB_Ch7_p58_ACT03",
-                            "hotspot": [61, 777, 835, 1118],
+                            "hotspot": [59, 803, 825, 1117],
                             "assets": [{
                                 "type": "answers",
                                 "content": ["Shelly, shoe, she", "bus, rescue, super"]
@@ -4881,11 +4841,15 @@ manifest =
                         "data": "<img src=\"images/AB_p61.jpg\">",
                         "epv": [{
                             "id": "SC_L2_AB_Ch7_p61_ACT01",
-                            "hotspot": [30, 52, 873, 1139],
+                            "hotspot": [18, 33, 877, 236],
                             "assets": [{
                                 "type": "tips",
-                                "content": "Play board games as a whole class activity.<br/>Put the class into two or more teams. Have them think of a name for their team. Display the game for the whole class to see. You could use an online virtual die. Use Pen to mark where the counters should be, using Eraser to delete the mark each time the counter moves. Use Notepad to keep track of points."
+                                "content": "Play board games as a whole class activity.\nPut the class into two or more teams. Have them think of a name for their team. Display the game for the whole class to see. You could use an online virtual die. Use <i>Pen</i> to mark where the counters should be, using <i>Eraser</i> to delete the mark each time the counter moves. Use <i>Notepad</i> to keep track of points."
                             }]
+                        }, {
+                            "assets": [],
+                            "hotspot": [24, 236, 874, 1143],
+                            "id": "SC_L2_AB_Ch7_p61_ACT02"
                         }],
                         "assets": []
                     }
@@ -5082,7 +5046,7 @@ manifest =
                         "data": "<img src=\"images/AB_p69.jpg\">",
                         "epv": [{
                             "id": "SC_L2_AB_Ch8_p69_ACT01",
-                            "hotspot": [40, 59, 876, 1107],
+                            "hotspot": [0, 0, 0, 0],
                             "assets": []
                         }],
                         "assets": []
@@ -5098,12 +5062,11 @@ manifest =
                         "data": "<img src=\"images/AB_p70.jpg\"><img src=\"images/ AB_p71.jpg\">",
                         "epv": [{
                             "id": "SC_L2_AB_Ch9_p70_ACT01",
-                            "hotspot": [395, 225, 855, 646],
                             "assets": [{
                                 "type": "interactive",
                                 "title": "Dialog Builder",
                                 "url": "./dialogbuilder/dialogbuilder.html",
-                                "id": "SC_L2_AB_Ch9_p70_ACT01"
+                                "id": ""
                             }]
                         }, {
                             "id": "SC_L2_AB_Ch9_p70_ACT02",
@@ -5111,6 +5074,9 @@ manifest =
                             "assets": [{
                                 "type": "answers",
                                 "content": ["a go shopping 4", "b meet my friends 2", "c go horseback riding 1", "d go to the movies 7", "e stay home 6", "f play computer games 5", "g listen to music 3"]
+                            }, {
+                                "type": "interactive",
+                                "id": "SC_L2_AB_Ch9_p70_ACT01"
                             }]
                         }, {
                             "id": "SC_L2_AB_Ch9_p71_ACT03",
@@ -5256,8 +5222,12 @@ manifest =
                         "data": "<img src=\"images/AB_p77.jpg\">",
                         "epv": [{
                             "id": "SC_L2_AB_Ch9_p77_ACT01",
-                            "hotspot": [29, 66, 863, 1084],
+                            "hotspot": [8, 0, 884, 233],
                             "assets": []
+                        }, {
+                            "assets": [{}],
+                            "hotspot": [33, 233, 861, 1037],
+                            "id": "SC_L2_AB_Ch9_p77_ACT02"
                         }],
                         "assets": []
                     }
@@ -5275,7 +5245,7 @@ manifest =
                             "hotspot": [46, 136, 825, 635],
                             "assets": [{
                                 "type": "tips",
-                                "content": "Use Timer to give students 1 minute to look at the picture. Then have them tell a partner what they remember about the picture."
+                                "content": "Use <i>Timer</i> to give students 1 minute to look at the picture. Then have them tell a partner what they remember about the picture."
                             }]
                         }, {
                             "id": "SC_L2_AB_R1_p78_ACT02",
@@ -5404,15 +5374,11 @@ manifest =
                         "data": "<img src=\"images/AB_p88.jpg\"><img src=\"images/AB_p89.jpg\">",
                         "epv": [{
                             "id": "SC_L2_AB_R1_p88_ACT01",
-                            "hotspot": [55, 133, 874, 591],
+                            "hotspot": [21, 120, 882, 1056],
                             "assets": [{
                                 "type": "answers",
                                 "content": ["get", "don't", "read", "do", "eleven"]
                             }]
-                        }, {
-                            "id": "SC_L2_AB_R1_p88_ACT02",
-                            "hotspot": [65, 614, 861, 1062],
-                            "assets": []
                         }, {
                             "id": "SC_L2_AB_R1_p88_ACT03",
                             "hotspot": [931, 55, 1703, 1056],
@@ -5458,10 +5424,10 @@ manifest =
                         "data": "<img src=\"images/AB_p92.jpgAB_\"><img src=\"images/p93.jpg\">",
                         "epv": [{
                             "id": "SC_L2_AB_R1_p92_ACT01",
-                            "hotspot": [0, 0, 0, 0],
+                            "hotspot": [24, 13, 812, 1127],
                             "assets": [{
                                 "type": "tips",
-                                "content": "Use Mask to show only small parts of the picture. Ask the children to guess what animal it is."
+                                "content": "Use <i>Mask</i> to show only small parts of the picture. Ask the children to guess what animal it is."
                             }]
                         }, {
                             "id": "SC_L2_AB_R1_p92_ACT02",
@@ -5472,7 +5438,7 @@ manifest =
                             }]
                         }, {
                             "id": "SC_L2_AB_R1_p92_ACT03",
-                            "hotspot": [0, 0, 0, 0],
+                            "hotspot": [908, 31, 1758, 1118],
                             "assets": [{
                                 "type": "answers",
                                 "content": ["1", "c", "a"]
@@ -5520,7 +5486,7 @@ manifest =
                         "data": "<img src=\"images/AB_p96.jpg\"><img src=\"images/AB_p97.jpg\">",
                         "epv": [{
                             "id": "SC_L2_AB_GR_p96_ACT01",
-                            "hotspot": [43, 71, 857, 658],
+                            "hotspot": [22, 71, 856, 657],
                             "assets": []
                         }, {
                             "id": "SC_L2_AB_GR_p96_ACT02",
@@ -5528,7 +5494,7 @@ manifest =
                             "assets": []
                         }, {
                             "id": "SC_L2_AB_GR_p97_ACT03",
-                            "hotspot": [902, 43, 1746, 643],
+                            "hotspot": [901, 26, 1777, 642],
                             "assets": []
                         }, {
                             "id": "SC_L2_AB_GR_p97_ACT04",
@@ -5543,7 +5509,7 @@ manifest =
                         "data": "<img src=\"images/AB_p98.jpg\"><img src=\"images/AB_p99.jpg\">",
                         "epv": [{
                             "id": "SC_L2_AB_GR_p98_ACT01",
-                            "hotspot": [50, 114, 861, 636],
+                            "hotspot": [26, 9, 860, 634],
                             "assets": []
                         }, {
                             "id": "SC_L2_AB_GR_p98_ACT02",
@@ -5551,7 +5517,7 @@ manifest =
                             "assets": []
                         }, {
                             "id": "SC_L2_AB_GR_p99_ACT03",
-                            "hotspot": [937, 56, 1713, 498],
+                            "hotspot": [935, 9, 1780, 497],
                             "assets": []
                         }, {
                             "id": "SC_L2_AB_GR_p99_ACT04",
@@ -5566,7 +5532,7 @@ manifest =
                         "data": "<img src=\"images/AB_p100.jpg\"><img src=\"images/AB_p101.jpg\">",
                         "epv": [{
                             "id": "SC_L2_AB_GR_p100_ACT01",
-                            "hotspot": [50, 103, 839, 597],
+                            "hotspot": [22, 4, 845, 596],
                             "assets": []
                         }, {
                             "id": "SC_L2_AB_GR_p100_ACT02",
@@ -5574,7 +5540,7 @@ manifest =
                             "assets": []
                         }, {
                             "id": "SC_L2_AB_GR_p101_ACT03",
-                            "hotspot": [924, 50, 1740, 572],
+                            "hotspot": [923, 17, 1784, 570],
                             "assets": []
                         }, {
                             "id": "SC_L2_AB_GR_p101_ACT04",
@@ -5589,7 +5555,7 @@ manifest =
                         "data": "<img src=\"images/AB_p102.jpg\"><img src=\"images/AB_p103.jpg\">",
                         "epv": [{
                             "id": "SC_L2_AB_GR_p102_ACT01",
-                            "hotspot": [47, 24, 844, 617],
+                            "hotspot": [21, 16, 843, 616],
                             "assets": []
                         }, {
                             "id": "SC_L2_AB_GR_p102_ACT02",
@@ -5597,7 +5563,7 @@ manifest =
                             "assets": []
                         }, {
                             "id": "SC_L2_AB_GR_p103_ACT03",
-                            "hotspot": [899, 36, 1759, 542],
+                            "hotspot": [897, 19, 1775, 541],
                             "assets": []
                         }, {
                             "id": "SC_L2_AB_GR_p103_ACT04",
@@ -5612,7 +5578,7 @@ manifest =
                         "data": "<img src=\"images/AB_p104.jpg\">",
                         "epv": [{
                             "id": "SC_L2_AB_GR_p104_ACT01",
-                            "hotspot": [49, 29, 850, 508],
+                            "hotspot": [26, 9, 848, 506],
                             "assets": []
                         }, {
                             "id": "SC_L2_AB_GR_p104_ACT02",
@@ -5988,11 +5954,11 @@ manifest =
                             "assets": []
                         }, {
                             "id": "SC_L2_RB_p13_ACT05",
-                            "hotspot": [9, 706, 391, 1016],
+                            "hotspot": [8, 704, 390, 1041],
                             "assets": []
                         }, {
                             "id": "SC_L2_RB_p13_ACT06",
-                            "hotspot": [390, 720, 798, 1018],
+                            "hotspot": [395, 719, 795, 1048],
                             "assets": []
                         }],
                         "assets": [{
@@ -6095,7 +6061,7 @@ manifest =
                             "assets": []
                         }, {
                             "id": "SC_L2_RB_p17_ACT08",
-                            "hotspot": [1206, 6, 1615, 343],
+                            "hotspot": [1205, 5, 1606, 361],
                             "assets": []
                         }, {
                             "id": "SC_L2_RB_p17_ACT09",
@@ -6103,7 +6069,7 @@ manifest =
                             "assets": []
                         }, {
                             "id": "SC_L2_RB_p17_ACT10",
-                            "hotspot": [1213, 346, 1610, 707],
+                            "hotspot": [1212, 358, 1608, 706],
                             "assets": []
                         }, {
                             "id": "SC_L2_RB_p17_ACT11",
